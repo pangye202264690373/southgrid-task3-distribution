@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "reference_region": "white tape quadrilateral, approximately its centerline",
+  "physical_width_depth_ratio": null,
+  "user_description": "横向长度略大于纵向长度，精确比例不清楚",
+  "reference_width_depth_ratio": 1.0,
+  "angle_label": "归一化框内朝向",
+  "aspect_ratio_sensitivity": [1.0, 1.1, 1.2, 1.3],
+  "position_rule": "transform tip and tail independently, then average in normalized coordinates",
+  "orientation_rule": "angle of transformed tail-to-tip vector; right=0, back/up=90 degrees",
+  "scope": "all collection recommendations restricted to the white tape task region"
+}

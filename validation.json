@@ -15,11 +15,38 @@
     "matplotlib": "3.6.3",
     "pillow": "10.2.0"
   },
-  "browser_checks": {
-    "direction_right_count": 6,
-    "filtered_original_images_loaded": 6,
-    "report_loaded": true
+  "version": 2,
+  "geometry_v2": {
+    "transformed_endpoints_then_midpoint_checked": 184,
+    "transformed_angle_checked": 184,
+    "maximum_inverse_center_error_uv": 1.4901161193847656e-07,
+    "no_centers_clipped_to_grid": true,
+    "ratio_unknown_explicit": true
   },
+  "state_v2": {
+    "reviewed": 184,
+    "cross_checked_other_first_frame_views": 41,
+    "user_confirmed_examples_match": true,
+    "counts": {
+      "yellow_up": 17,
+      "black_up": 44,
+      "side": 123,
+      "uncertain": 0
+    },
+    "labels_independent_of_HSV_threshold": true
+  },
+  "joint_tensor_sums_match": true,
+  "browser_checks_v2": {
+    "nine_grid_cells": 9,
+    "all_recordings": 184,
+    "yellow_up_filter": 17,
+    "morning_side_filter": 49,
+    "back_left_cell_filter": 4,
+    "relative_and_absolute_scales": "PASS",
+    "original_rectified_and_overlay_modes": "PASS",
+    "black_up_filter": 44
+  },
+  "v2_derived_images_decoded": 368,
   "publication": {
     "head_left_first_frames": 184,
     "annotated_images": 184,
