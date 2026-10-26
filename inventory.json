@@ -1,0 +1,2398 @@
+{
+  "source_root": "cluster_direct_copy/task3",
+  "scope": "publication includes only the 184 head-left first frames; full local audit used 1104 sampled images",
+  "sessions": [
+    {
+      "key": "recorded__20261020_191945",
+      "batch": "recorded",
+      "session": "20261020_191945",
+      "source": "cluster_direct_copy/task3/recorded/20261020_191945",
+      "duration": 54.72580814361572,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_191945/head_left_000.jpg",
+        "sha256": "0821d3179a776694720311b41691d9235a1038ca368dd297058da96190d0289e"
+      }
+    },
+    {
+      "key": "recorded__20261020_192058",
+      "batch": "recorded",
+      "session": "20261020_192058",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192058",
+      "duration": 51.21418023109436,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192058/head_left_000.jpg",
+        "sha256": "4e1936dd82814f8670e79c6647cfc8e27918b8b851ff600298806faa4508ca14"
+      }
+    },
+    {
+      "key": "recorded__20261020_192203",
+      "batch": "recorded",
+      "session": "20261020_192203",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192203",
+      "duration": 33.484999895095825,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192203/head_left_000.jpg",
+        "sha256": "8b10f5283decd3a14d92f217de2b5f67887b40b6677cd01d69031626750cef3f"
+      }
+    },
+    {
+      "key": "recorded__20261020_192312",
+      "batch": "recorded",
+      "session": "20261020_192312",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192312",
+      "duration": 56.69608449935913,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192312/head_left_000.jpg",
+        "sha256": "e1d56bda06b532996199997d4d053e7dbd41a39523a00e30093a571119ce8a17"
+      }
+    },
+    {
+      "key": "recorded__20261020_192421",
+      "batch": "recorded",
+      "session": "20261020_192421",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192421",
+      "duration": 67.7810549736023,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192421/head_left_000.jpg",
+        "sha256": "57077548483b937d3e954608b23e298c68f19ff8e81fbdd259d74f6139180093"
+      }
+    },
+    {
+      "key": "recorded__20261020_192542",
+      "batch": "recorded",
+      "session": "20261020_192542",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192542",
+      "duration": 54.37977647781372,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192542/head_left_000.jpg",
+        "sha256": "b138091e6934ee0bd67786170aaa054b2cf8509de9c41634a02cf01980e2bce2"
+      }
+    },
+    {
+      "key": "recorded__20261020_192646",
+      "batch": "recorded",
+      "session": "20261020_192646",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192646",
+      "duration": 55.29474401473999,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192646/head_left_000.jpg",
+        "sha256": "e7e8eb075e786fb971c4e08bb9132e92a9790822008e19de38ef8472356376f7"
+      }
+    },
+    {
+      "key": "recorded__20261020_192819",
+      "batch": "recorded",
+      "session": "20261020_192819",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192819",
+      "duration": 50.82552790641785,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192819/head_left_000.jpg",
+        "sha256": "ab84ef2900f652e8fb350a0f61af9eff45c99ae50a51d0b8b7908a171e587cd2"
+      }
+    },
+    {
+      "key": "recorded__20261020_192837",
+      "batch": "recorded",
+      "session": "20261020_192837",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192837",
+      "duration": 60.664809703826904,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192837/head_left_000.jpg",
+        "sha256": "57513c93de28a66f949bf6581d755f87edf455c6b181114f70ba7df303a07bcb"
+      }
+    },
+    {
+      "key": "recorded__20261020_192926",
+      "batch": "recorded",
+      "session": "20261020_192926",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192926",
+      "duration": 62.05195879936218,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192926/head_left_000.jpg",
+        "sha256": "372c76cd58e6a6980db7b2abf668007badc46ed0a752506419cc1de5f4bdba8b"
+      }
+    },
+    {
+      "key": "recorded__20261020_192955",
+      "batch": "recorded",
+      "session": "20261020_192955",
+      "source": "cluster_direct_copy/task3/recorded/20261020_192955",
+      "duration": 52.671730041503906,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_192955/head_left_000.jpg",
+        "sha256": "e5fd676c6eeab7c534cbcc57a083af0018612f3008d58766eb2645dfd1853e60"
+      }
+    },
+    {
+      "key": "recorded__20261020_193042",
+      "batch": "recorded",
+      "session": "20261020_193042",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193042",
+      "duration": 46.64987778663635,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193042/head_left_000.jpg",
+        "sha256": "d1ca14dc26f6d0713b17d770faf53ca6fd58fb97135beff517b78489e73eba17"
+      }
+    },
+    {
+      "key": "recorded__20261020_193106",
+      "batch": "recorded",
+      "session": "20261020_193106",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193106",
+      "duration": 55.00523138046265,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193106/head_left_000.jpg",
+        "sha256": "ffe641e0f8362fa8870a66ecf8b5e96175789edd285730bd3f2b83ddb8cc14d1"
+      }
+    },
+    {
+      "key": "recorded__20261020_193145",
+      "batch": "recorded",
+      "session": "20261020_193145",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193145",
+      "duration": 58.675535678863525,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193145/head_left_000.jpg",
+        "sha256": "60e5da4d12ceb1e6ed5b67f293b58b6bc56b7fa646d9ae790cfd676b19c71c37"
+      }
+    },
+    {
+      "key": "recorded__20261020_193220",
+      "batch": "recorded",
+      "session": "20261020_193220",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193220",
+      "duration": 57.54952788352966,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193220/head_left_000.jpg",
+        "sha256": "bb6a3bb4873137299ccf53bafab2be786d0f2aa3d7ba553c15ab94452d3d51f4"
+      }
+    },
+    {
+      "key": "recorded__20261020_193304",
+      "batch": "recorded",
+      "session": "20261020_193304",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193304",
+      "duration": 54.73439645767212,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193304/head_left_000.jpg",
+        "sha256": "0eb4fc454b43ff55e3a3c953b5582521269b48a47ed9dcd119feb1c663de7b52"
+      }
+    },
+    {
+      "key": "recorded__20261020_193413",
+      "batch": "recorded",
+      "session": "20261020_193413",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193413",
+      "duration": 50.73640584945679,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193413/head_left_000.jpg",
+        "sha256": "0eb330bccf59587655166a0a884f2eb995b5ff4dbeb7ee0d482e941ab0559769"
+      }
+    },
+    {
+      "key": "recorded__20261020_193441",
+      "batch": "recorded",
+      "session": "20261020_193441",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193441",
+      "duration": 77.55038046836853,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193441/head_left_000.jpg",
+        "sha256": "41e7813febdc537c9a1428360f6edb89b56de814f44a31abfc0af2e747572591"
+      }
+    },
+    {
+      "key": "recorded__20261020_193515",
+      "batch": "recorded",
+      "session": "20261020_193515",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193515",
+      "duration": 53.36087942123413,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193515/head_left_000.jpg",
+        "sha256": "555d01fd1fb0c5de803b7fd757ba7bec4bd2c956f7c8250f59ba41afa8b33011"
+      }
+    },
+    {
+      "key": "recorded__20261020_193623",
+      "batch": "recorded",
+      "session": "20261020_193623",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193623",
+      "duration": 76.47699236869812,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193623/head_left_000.jpg",
+        "sha256": "3d608507a9e434bc7152dcf4982c4c2d52434664b78ab695d5c0b0eeb80a9fb9"
+      }
+    },
+    {
+      "key": "recorded__20261020_193624",
+      "batch": "recorded",
+      "session": "20261020_193624",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193624",
+      "duration": 54.7598090171814,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193624/head_left_000.jpg",
+        "sha256": "43d4b1421d74a7b8bca3d26702f58ff606724d337e2d21450f8b6fa7f004fbfc"
+      }
+    },
+    {
+      "key": "recorded__20261020_193747",
+      "batch": "recorded",
+      "session": "20261020_193747",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193747",
+      "duration": 70.56900811195374,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193747/head_left_000.jpg",
+        "sha256": "3e7d0328e7c841caf4d43a41eb9753e975334c864bc0d726e811d97199bd230c"
+      }
+    },
+    {
+      "key": "recorded__20261020_193814",
+      "batch": "recorded",
+      "session": "20261020_193814",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193814",
+      "duration": 59.486960887908936,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193814/head_left_000.jpg",
+        "sha256": "e392488fb50b145adf4f365cef3e824c52e1973408e6815ac89dc19b6c85867e"
+      }
+    },
+    {
+      "key": "recorded__20261020_193911",
+      "batch": "recorded",
+      "session": "20261020_193911",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193911",
+      "duration": 62.96209239959717,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193911/head_left_000.jpg",
+        "sha256": "dcf17084399384b3850e02b748aaca550adb43f28c103a73153ded93e9a06134"
+      }
+    },
+    {
+      "key": "recorded__20261020_193930",
+      "batch": "recorded",
+      "session": "20261020_193930",
+      "source": "cluster_direct_copy/task3/recorded/20261020_193930",
+      "duration": 55.52995491027832,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_193930/head_left_000.jpg",
+        "sha256": "60e10ec483f08c4db2f2cb9a525baaacc926abccdcc4b8fea5964d973d0f9458"
+      }
+    },
+    {
+      "key": "recorded__20261020_194030",
+      "batch": "recorded",
+      "session": "20261020_194030",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194030",
+      "duration": 55.000516414642334,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194030/head_left_000.jpg",
+        "sha256": "cd311780b8a1849900e6de5c5e65b0fcc09572252cd7e836b44d3045d1c73128"
+      }
+    },
+    {
+      "key": "recorded__20261020_194139",
+      "batch": "recorded",
+      "session": "20261020_194139",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194139",
+      "duration": 53.677568674087524,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194139/head_left_000.jpg",
+        "sha256": "7d69b92342d6056e6ad749e15091c36e41afca3a46f9327c136e2f0105aa457b"
+      }
+    },
+    {
+      "key": "recorded__20261020_194144",
+      "batch": "recorded",
+      "session": "20261020_194144",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194144",
+      "duration": 61.115882396698,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194144/head_left_000.jpg",
+        "sha256": "10a9bc39c5a7d61ffc3eaccde8f9fec6dd0813c0eacfe781f9c52fba59e35975"
+      }
+    },
+    {
+      "key": "recorded__20261020_194250",
+      "batch": "recorded",
+      "session": "20261020_194250",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194250",
+      "duration": 56.26773929595947,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194250/head_left_000.jpg",
+        "sha256": "3a49288540038892bc65cfb8decfb147a75831348d07678e917e8592b56dda75"
+      }
+    },
+    {
+      "key": "recorded__20261020_194259",
+      "batch": "recorded",
+      "session": "20261020_194259",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194259",
+      "duration": 59.20077610015869,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194259/head_left_000.jpg",
+        "sha256": "578d52e7882a11660e24196405eb64a8f380bb9467d831046c5836763bc88321"
+      }
+    },
+    {
+      "key": "recorded__20261020_194400",
+      "batch": "recorded",
+      "session": "20261020_194400",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194400",
+      "duration": 55.59383964538574,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194400/head_left_000.jpg",
+        "sha256": "1a5270226faeb240c9f391e1398b5d6a481c3d86134e6e6399eaad7ce45fb58c"
+      }
+    },
+    {
+      "key": "recorded__20261020_194420",
+      "batch": "recorded",
+      "session": "20261020_194420",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194420",
+      "duration": 57.250107526779175,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194420/head_left_000.jpg",
+        "sha256": "3a484dd874a4974682efb81fe7ec94d7e0b14b3f6f6ae854b8a728478397e118"
+      }
+    },
+    {
+      "key": "recorded__20261020_194533",
+      "batch": "recorded",
+      "session": "20261020_194533",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194533",
+      "duration": 48.719234466552734,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194533/head_left_000.jpg",
+        "sha256": "3a5450891ff4f757220c7c048683dbfbf9d9978078c601d083bb516b0fce7b58"
+      }
+    },
+    {
+      "key": "recorded__20261020_194540",
+      "batch": "recorded",
+      "session": "20261020_194540",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194540",
+      "duration": 68.14035177230835,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194540/head_left_000.jpg",
+        "sha256": "a21d6d8c8048bd3ba6b58f900967ae60af55fa826ac3cdf13063ae9674faa69f"
+      }
+    },
+    {
+      "key": "recorded__20261020_194635",
+      "batch": "recorded",
+      "session": "20261020_194635",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194635",
+      "duration": 50.92004442214966,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194635/head_left_000.jpg",
+        "sha256": "748173042e356acaca32cbcd81eb4874e6db85a40b1ffa9c4969f2ad87066fc6"
+      }
+    },
+    {
+      "key": "recorded__20261020_194741",
+      "batch": "recorded",
+      "session": "20261020_194741",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194741",
+      "duration": 51.420472383499146,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194741/head_left_000.jpg",
+        "sha256": "b41615606700b40abd1ff996b58f129875f8cfefa87111c03058405ffff8031f"
+      }
+    },
+    {
+      "key": "recorded__20261020_194845",
+      "batch": "recorded",
+      "session": "20261020_194845",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194845",
+      "duration": 58.5949501991272,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194845/head_left_000.jpg",
+        "sha256": "3114698029fc2f658dfb4fbe066a4dfc6b0886db760bd1bbd1d0023566bb3145"
+      }
+    },
+    {
+      "key": "recorded__20261020_194848",
+      "batch": "recorded",
+      "session": "20261020_194848",
+      "source": "cluster_direct_copy/task3/recorded/20261020_194848",
+      "duration": 61.393049240112305,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_194848/head_left_000.jpg",
+        "sha256": "317c79128470221d823a87d5fb5f2aec176576c2f36c098d24b6d7f2f18773b3"
+      }
+    },
+    {
+      "key": "recorded__20261020_195004",
+      "batch": "recorded",
+      "session": "20261020_195004",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195004",
+      "duration": 52.111124753952026,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195004/head_left_000.jpg",
+        "sha256": "e5310ec66580431eb22a2e3876fe349ea068adf76d3042810902bfa30efe6335"
+      }
+    },
+    {
+      "key": "recorded__20261020_195118",
+      "batch": "recorded",
+      "session": "20261020_195118",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195118",
+      "duration": 55.01252579689026,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195118/head_left_000.jpg",
+        "sha256": "437b68221d6201c6bfacc500f5a265676d21c37eea01caf843589586f1415b2b"
+      }
+    },
+    {
+      "key": "recorded__20261020_195139",
+      "batch": "recorded",
+      "session": "20261020_195139",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195139",
+      "duration": 73.11719679832458,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195139/head_left_000.jpg",
+        "sha256": "74626c42bd0be70f03debd697a26c0c6b71ea49f2d4964271fc375f41564bd0e"
+      }
+    },
+    {
+      "key": "recorded__20261020_195234",
+      "batch": "recorded",
+      "session": "20261020_195234",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195234",
+      "duration": 69.94071412086487,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195234/head_left_000.jpg",
+        "sha256": "acb8935df8afe8cb3986b70cf0277f8b87f0914f140a1399cd5cb89b8a0e0e7e"
+      }
+    },
+    {
+      "key": "recorded__20261020_195310",
+      "batch": "recorded",
+      "session": "20261020_195310",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195310",
+      "duration": 69.36965227127075,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195310/head_left_000.jpg",
+        "sha256": "68aa197da2c9047a515f5c07f9f995a2e86bb4ace47c758b594ed6138f31f351"
+      }
+    },
+    {
+      "key": "recorded__20261020_195421",
+      "batch": "recorded",
+      "session": "20261020_195421",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195421",
+      "duration": 50.819488286972046,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195421/head_left_000.jpg",
+        "sha256": "50c3a7aa75c2c98dce537dc6c616e0f3e04f2e60e0e386bf5ac2e766d7bb2e7a"
+      }
+    },
+    {
+      "key": "recorded__20261020_195440",
+      "batch": "recorded",
+      "session": "20261020_195440",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195440",
+      "duration": 64.58931612968445,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195440/head_left_000.jpg",
+        "sha256": "562f650475fae4683ed0d9c3a2139464b100dbfd25f26f6ebaabc758869782fc"
+      }
+    },
+    {
+      "key": "recorded__20261020_195525",
+      "batch": "recorded",
+      "session": "20261020_195525",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195525",
+      "duration": 60.03282165527344,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195525/head_left_000.jpg",
+        "sha256": "f235de8b2e2d295512b8ed07dcee8daa6458db917afab76421b0b1a097c1837f"
+      }
+    },
+    {
+      "key": "recorded__20261020_195646",
+      "batch": "recorded",
+      "session": "20261020_195646",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195646",
+      "duration": 14.184568643569946,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195646/head_left_000.jpg",
+        "sha256": "d8626646fe408b7b43b7777d063ac4db30a7245311f81be9e3585e5373e05cf8"
+      }
+    },
+    {
+      "key": "recorded__20261020_195713",
+      "batch": "recorded",
+      "session": "20261020_195713",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195713",
+      "duration": 60.27436327934265,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195713/head_left_000.jpg",
+        "sha256": "7994df68de137e1575691bf8c3a9e220083b4506a6665b6e3ff05b4090eb005e"
+      }
+    },
+    {
+      "key": "recorded__20261020_195743",
+      "batch": "recorded",
+      "session": "20261020_195743",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195743",
+      "duration": 74.21942400932312,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195743/head_left_000.jpg",
+        "sha256": "6263efadba2c71493d29171e4030e547c218ae8b396aac92d2ae4eab9142c473"
+      }
+    },
+    {
+      "key": "recorded__20261020_195840",
+      "batch": "recorded",
+      "session": "20261020_195840",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195840",
+      "duration": 72.2887327671051,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195840/head_left_000.jpg",
+        "sha256": "75330b3858a9eae89769cf786995122c501f491f9231d06639ab607f64dba76e"
+      }
+    },
+    {
+      "key": "recorded__20261020_195942",
+      "batch": "recorded",
+      "session": "20261020_195942",
+      "source": "cluster_direct_copy/task3/recorded/20261020_195942",
+      "duration": 69.95838117599487,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_195942/head_left_000.jpg",
+        "sha256": "7d048108e3734254a213da86ad697f581bad25c6f7bc74961b75a9bb9806836d"
+      }
+    },
+    {
+      "key": "recorded__20261020_200009",
+      "batch": "recorded",
+      "session": "20261020_200009",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200009",
+      "duration": 53.403687953948975,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200009/head_left_000.jpg",
+        "sha256": "81bfbf10f475e15daf67e0dd1fa52e6248eea59829f594d89145fe4e83bd55f7"
+      }
+    },
+    {
+      "key": "recorded__20261020_200109",
+      "batch": "recorded",
+      "session": "20261020_200109",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200109",
+      "duration": 60.75454568862915,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200109/head_left_000.jpg",
+        "sha256": "06733a61c30a2064295e26c7bba9dfd3247e4527cb86e4ed601ee71bf6870877"
+      }
+    },
+    {
+      "key": "recorded__20261020_200122",
+      "batch": "recorded",
+      "session": "20261020_200122",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200122",
+      "duration": 30.438560724258423,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200122/head_left_000.jpg",
+        "sha256": "c505a00865cf06118e37ae66af634e07d29d188dcacb8e238633d458270159d6"
+      }
+    },
+    {
+      "key": "recorded__20261020_200204",
+      "batch": "recorded",
+      "session": "20261020_200204",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200204",
+      "duration": 67.68030047416687,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200204/head_left_000.jpg",
+        "sha256": "ba502b4c6f90e9188fe08057d06a9ed5b63004b706d78e69c35506a826bcdd21"
+      }
+    },
+    {
+      "key": "recorded__20261020_200232",
+      "batch": "recorded",
+      "session": "20261020_200232",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200232",
+      "duration": 64.37804508209229,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200232/head_left_000.jpg",
+        "sha256": "2787f9db6f26c04edd122ec9f5a71869023c6f4fab0ebe90c4b761a17e97a27d"
+      }
+    },
+    {
+      "key": "recorded__20261020_200330",
+      "batch": "recorded",
+      "session": "20261020_200330",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200330",
+      "duration": 62.331844091415405,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200330/head_left_000.jpg",
+        "sha256": "3a848000049774722e543e6c955b085ce5838f15792df2eea5bc91d2577fac87"
+      }
+    },
+    {
+      "key": "recorded__20261020_200358",
+      "batch": "recorded",
+      "session": "20261020_200358",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200358",
+      "duration": 58.83955192565918,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200358/head_left_000.jpg",
+        "sha256": "e2ac8c122e18a501b73be515791a6dfa38d382975e7ae2cc11b5d67690476c56"
+      }
+    },
+    {
+      "key": "recorded__20261020_200521",
+      "batch": "recorded",
+      "session": "20261020_200521",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200521",
+      "duration": 60.85089826583862,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200521/head_left_000.jpg",
+        "sha256": "bfde75cfc83995e082436e4a2b8f1f8c95cba480b3ff9f96c61af47b82d96270"
+      }
+    },
+    {
+      "key": "recorded__20261020_200526",
+      "batch": "recorded",
+      "session": "20261020_200526",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200526",
+      "duration": 60.42878174781799,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200526/head_left_000.jpg",
+        "sha256": "ce45a2b1b5515a03f4e21d51da139ea07ea818f1cb77a2a5378a11b86dc57210"
+      }
+    },
+    {
+      "key": "recorded__20261020_200746",
+      "batch": "recorded",
+      "session": "20261020_200746",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200746",
+      "duration": 61.42007923126221,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200746/head_left_000.jpg",
+        "sha256": "21453a22083dce2a9c99e3d3dc58fedbef84f902929e4a21c61ff31ad5b40f8a"
+      }
+    },
+    {
+      "key": "recorded__20261020_200904",
+      "batch": "recorded",
+      "session": "20261020_200904",
+      "source": "cluster_direct_copy/task3/recorded/20261020_200904",
+      "duration": 49.21706008911133,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_200904/head_left_000.jpg",
+        "sha256": "123c94845ad780a01115e26eb16179ad0015a2f5003119254cc945110bd71fd3"
+      }
+    },
+    {
+      "key": "recorded__20261020_201005",
+      "batch": "recorded",
+      "session": "20261020_201005",
+      "source": "cluster_direct_copy/task3/recorded/20261020_201005",
+      "duration": 56.72462582588196,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_201005/head_left_000.jpg",
+        "sha256": "cf0781060bdf7c7c91dc502a1d23311ff3e54fa16a8035ff10c27b2ce9ef54db"
+      }
+    },
+    {
+      "key": "recorded__20261020_201121",
+      "batch": "recorded",
+      "session": "20261020_201121",
+      "source": "cluster_direct_copy/task3/recorded/20261020_201121",
+      "duration": 49.89855599403381,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_201121/head_left_000.jpg",
+        "sha256": "bb730b0906cf5b45835d5070f91281191d5b721838f2ec91fd9720a624259aaa"
+      }
+    },
+    {
+      "key": "recorded__20261020_201225",
+      "batch": "recorded",
+      "session": "20261020_201225",
+      "source": "cluster_direct_copy/task3/recorded/20261020_201225",
+      "duration": 51.43864631652832,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_201225/head_left_000.jpg",
+        "sha256": "c4878540eaadb03722c7c9d76c2a83a25f59ac70bac1bffc99024e26cef42e80"
+      }
+    },
+    {
+      "key": "recorded__20261020_201331",
+      "batch": "recorded",
+      "session": "20261020_201331",
+      "source": "cluster_direct_copy/task3/recorded/20261020_201331",
+      "duration": 47.888680934906006,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_201331/head_left_000.jpg",
+        "sha256": "69e42e4bd617552d99539b1e8088bf9de82f1ad75cbb71ed6ece016494144ad0"
+      }
+    },
+    {
+      "key": "recorded__20261020_201914",
+      "batch": "recorded",
+      "session": "20261020_201914",
+      "source": "cluster_direct_copy/task3/recorded/20261020_201914",
+      "duration": 56.7106077671051,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_201914/head_left_000.jpg",
+        "sha256": "5b0c8a293cf2bb9bb9861008156be8af9574536b5fd1eeeb1b51133c262cb905"
+      }
+    },
+    {
+      "key": "recorded__20261020_202028",
+      "batch": "recorded",
+      "session": "20261020_202028",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202028",
+      "duration": 53.601869106292725,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202028/head_left_000.jpg",
+        "sha256": "73b1e0fec72cd2d08bf091e68972fdc586e42c82ec56bfa9c8a90f2fd20cf44b"
+      }
+    },
+    {
+      "key": "recorded__20261020_202132",
+      "batch": "recorded",
+      "session": "20261020_202132",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202132",
+      "duration": 52.974939584732056,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202132/head_left_000.jpg",
+        "sha256": "3f500b2b958f1d41aca059a815094854835180b6b9b9de06ea023ff7eae8fe3f"
+      }
+    },
+    {
+      "key": "recorded__20261020_202241",
+      "batch": "recorded",
+      "session": "20261020_202241",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202241",
+      "duration": 54.180943727493286,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202241/head_left_000.jpg",
+        "sha256": "ac1a583fd8a03325e4d6fe3159ff44cec88d6bfe31d3128241a6ae2ce74376c5"
+      }
+    },
+    {
+      "key": "recorded__20261020_202350",
+      "batch": "recorded",
+      "session": "20261020_202350",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202350",
+      "duration": 57.59873604774475,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202350/head_left_000.jpg",
+        "sha256": "ac391cc06470a8758dccc87327cdf9839d8a10267e4e1896bf17a7918b75bbcb"
+      }
+    },
+    {
+      "key": "recorded__20261020_202718",
+      "batch": "recorded",
+      "session": "20261020_202718",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202718",
+      "duration": 62.130565881729126,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202718/head_left_000.jpg",
+        "sha256": "59354ed19525f7c95e8c507e4dcdbf423afc4dfceb64cccc3916a7242c03518a"
+      }
+    },
+    {
+      "key": "recorded__20261020_202835",
+      "batch": "recorded",
+      "session": "20261020_202835",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202835",
+      "duration": 53.18682837486267,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202835/head_left_000.jpg",
+        "sha256": "8549a9f9bb6fd64ff0b4967aa3bebe9cafc0c60b43f6050f58dc18bfc632e5db"
+      }
+    },
+    {
+      "key": "recorded__20261020_202948",
+      "batch": "recorded",
+      "session": "20261020_202948",
+      "source": "cluster_direct_copy/task3/recorded/20261020_202948",
+      "duration": 72.3230528831482,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_202948/head_left_000.jpg",
+        "sha256": "92259795aaf09a5e5b818b896d44720c1c30294f59998a179b089577af9c59c9"
+      }
+    },
+    {
+      "key": "recorded__20261020_203157",
+      "batch": "recorded",
+      "session": "20261020_203157",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203157",
+      "duration": 53.35937976837158,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203157/head_left_000.jpg",
+        "sha256": "34d87ee7f0529968109bfaee1c05ff3e61449bf68580ed1d73072c5e70bd3253"
+      }
+    },
+    {
+      "key": "recorded__20261020_203308",
+      "batch": "recorded",
+      "session": "20261020_203308",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203308",
+      "duration": 58.240747690200806,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203308/head_left_000.jpg",
+        "sha256": "c4bfa1ebea579a66636cf21aa62974c263faa086a0ffd59b37245d85d5ad40fc"
+      }
+    },
+    {
+      "key": "recorded__20261020_203426",
+      "batch": "recorded",
+      "session": "20261020_203426",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203426",
+      "duration": 55.450807332992554,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203426/head_left_000.jpg",
+        "sha256": "95a0fa708601a328cd58fd8475d3278818d599ccca83538e14c7402d6d659cc1"
+      }
+    },
+    {
+      "key": "recorded__20261020_203537",
+      "batch": "recorded",
+      "session": "20261020_203537",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203537",
+      "duration": 58.31949424743652,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203537/head_left_000.jpg",
+        "sha256": "714245c9e99abecf9ab9b770a08dfab7192a3b31bdffe44281dd0cb2a38970df"
+      }
+    },
+    {
+      "key": "recorded__20261020_203655",
+      "batch": "recorded",
+      "session": "20261020_203655",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203655",
+      "duration": 61.506598711013794,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203655/head_left_000.jpg",
+        "sha256": "4163d8ba2419cb8f08165443a02391727fb00f67fb4381bdc4a11bab40f0bed3"
+      }
+    },
+    {
+      "key": "recorded__20261020_203809",
+      "batch": "recorded",
+      "session": "20261020_203809",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203809",
+      "duration": 54.551910161972046,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203809/head_left_000.jpg",
+        "sha256": "9b3ac8be3c0ad089e03d1b723d06fb0002e37737e7a24f90b56194ec68aa959c"
+      }
+    },
+    {
+      "key": "recorded__20261020_203920",
+      "batch": "recorded",
+      "session": "20261020_203920",
+      "source": "cluster_direct_copy/task3/recorded/20261020_203920",
+      "duration": 48.20962381362915,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_203920/head_left_000.jpg",
+        "sha256": "38268e3efc6ab1e0478c5dfe876b506fbb2e6ef3eab7a26ca50d4a79ce91c74f"
+      }
+    },
+    {
+      "key": "recorded__20261020_204024",
+      "batch": "recorded",
+      "session": "20261020_204024",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204024",
+      "duration": 58.736520290374756,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204024/head_left_000.jpg",
+        "sha256": "03966ca6b6108a01d3469720e2832f7161a19f294c0265c773c4ebb1e8e04de2"
+      }
+    },
+    {
+      "key": "recorded__20261020_204137",
+      "batch": "recorded",
+      "session": "20261020_204137",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204137",
+      "duration": 53.64193630218506,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204137/head_left_000.jpg",
+        "sha256": "b55f731e556e0f7c7bf9d7637f3ff8abaa2d5ae58be92a48e6693d1c1ff4b17a"
+      }
+    },
+    {
+      "key": "recorded__20261020_204406",
+      "batch": "recorded",
+      "session": "20261020_204406",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204406",
+      "duration": 66.39483213424683,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204406/head_left_000.jpg",
+        "sha256": "90bffc8b0292e138a4f1506788d5443257eddab8900b435aff302c6b9cb5879e"
+      }
+    },
+    {
+      "key": "recorded__20261020_204531",
+      "batch": "recorded",
+      "session": "20261020_204531",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204531",
+      "duration": 51.854763984680176,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204531/head_left_000.jpg",
+        "sha256": "8a983dcac0de679e63749ad1299501739b7b78cdbc4d3067de3a2a21184e0dfc"
+      }
+    },
+    {
+      "key": "recorded__20261020_204641",
+      "batch": "recorded",
+      "session": "20261020_204641",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204641",
+      "duration": 55.009334325790405,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204641/head_left_000.jpg",
+        "sha256": "c72ab68dd67a3efcbb1c5ad28aff8fe727599ba9b3cdbe87682e665f12ba4a52"
+      }
+    },
+    {
+      "key": "recorded__20261020_204806",
+      "batch": "recorded",
+      "session": "20261020_204806",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204806",
+      "duration": 54.747241258621216,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204806/head_left_000.jpg",
+        "sha256": "f2a5ff6cdd1dc4a663cd14b024803a922c3af2801c058dc7c82f57292376dc2d"
+      }
+    },
+    {
+      "key": "recorded__20261020_204917",
+      "batch": "recorded",
+      "session": "20261020_204917",
+      "source": "cluster_direct_copy/task3/recorded/20261020_204917",
+      "duration": 63.695420026779175,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_204917/head_left_000.jpg",
+        "sha256": "a0be80830edd43158cfae9bda3199e291602bb01a7a14bf1504328db0713e508"
+      }
+    },
+    {
+      "key": "recorded__20261020_205046",
+      "batch": "recorded",
+      "session": "20261020_205046",
+      "source": "cluster_direct_copy/task3/recorded/20261020_205046",
+      "duration": 56.18766808509827,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_205046/head_left_000.jpg",
+        "sha256": "baaa09d8ac6e32aa7e13d34e2c7256a641506093e514e37583cba1908ac69f9a"
+      }
+    },
+    {
+      "key": "recorded__20261020_205200",
+      "batch": "recorded",
+      "session": "20261020_205200",
+      "source": "cluster_direct_copy/task3/recorded/20261020_205200",
+      "duration": 56.38772201538086,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_205200/head_left_000.jpg",
+        "sha256": "7a9f2e1f5e65c44dfab1a636cc18bf4b4ad3e435b39d9d0eeefca20627a147b3"
+      }
+    },
+    {
+      "key": "recorded__20261020_205313",
+      "batch": "recorded",
+      "session": "20261020_205313",
+      "source": "cluster_direct_copy/task3/recorded/20261020_205313",
+      "duration": 54.91328573226929,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_205313/head_left_000.jpg",
+        "sha256": "884245e882c558c92d369db8653133ff95eb6aa2fb0f51f24b2398737685dc07"
+      }
+    },
+    {
+      "key": "recorded__20261020_210149",
+      "batch": "recorded",
+      "session": "20261020_210149",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210149",
+      "duration": 62.561572313308716,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210149/head_left_000.jpg",
+        "sha256": "d21ab85b1d40a37b2538ffc2b0af3d37a4bae881d1aeb05fffb7bae134c08435"
+      }
+    },
+    {
+      "key": "recorded__20261020_210304",
+      "batch": "recorded",
+      "session": "20261020_210304",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210304",
+      "duration": 59.47774600982666,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210304/head_left_000.jpg",
+        "sha256": "b535df5a5321aa94a2e6e3bb478a24e72aaee4e7e1d3af30029d3a08ccf79aff"
+      }
+    },
+    {
+      "key": "recorded__20261020_210456",
+      "batch": "recorded",
+      "session": "20261020_210456",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210456",
+      "duration": 56.83095574378967,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210456/head_left_000.jpg",
+        "sha256": "4e518fe469a5031def27d941a103acaa702c6e99a7e7b0194127e82ad9db23a2"
+      }
+    },
+    {
+      "key": "recorded__20261020_210608",
+      "batch": "recorded",
+      "session": "20261020_210608",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210608",
+      "duration": 59.12004470825195,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210608/head_left_000.jpg",
+        "sha256": "80dd2ae87c9a28e41ad11cd7b48bc06e2e76b81a300be467e5c1ec72d14a84bd"
+      }
+    },
+    {
+      "key": "recorded__20261020_210724",
+      "batch": "recorded",
+      "session": "20261020_210724",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210724",
+      "duration": 54.61266493797302,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210724/head_left_000.jpg",
+        "sha256": "36992a89ba040b2c7c897025bfe1c84a24477ea1c563f8441eb678f68f8759e7"
+      }
+    },
+    {
+      "key": "recorded__20261020_210830",
+      "batch": "recorded",
+      "session": "20261020_210830",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210830",
+      "duration": 57.000903844833374,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210830/head_left_000.jpg",
+        "sha256": "4bae0cd45c0f4bca48fea30c8d72a13014645bda1892eb4c9a1821dc430a9aa7"
+      }
+    },
+    {
+      "key": "recorded__20261020_210939",
+      "batch": "recorded",
+      "session": "20261020_210939",
+      "source": "cluster_direct_copy/task3/recorded/20261020_210939",
+      "duration": 69.9862220287323,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_210939/head_left_000.jpg",
+        "sha256": "36b9b7d7b7a5e509512569a96bbab27013e90d679b415c73b7ffdd6890fbd4cd"
+      }
+    },
+    {
+      "key": "recorded__20261020_211101",
+      "batch": "recorded",
+      "session": "20261020_211101",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211101",
+      "duration": 66.84971880912781,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211101/head_left_000.jpg",
+        "sha256": "52a8862647691ae27169785add900268825b3913f6a8c44e9dc4e94b3273a866"
+      }
+    },
+    {
+      "key": "recorded__20261020_211222",
+      "batch": "recorded",
+      "session": "20261020_211222",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211222",
+      "duration": 56.32448625564575,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211222/head_left_000.jpg",
+        "sha256": "b6aa9940290fe0334e81bc6f02613b946ada448b914f8f2fdf5fac1d2faafe6d"
+      }
+    },
+    {
+      "key": "recorded__20261020_211329",
+      "batch": "recorded",
+      "session": "20261020_211329",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211329",
+      "duration": 54.078524589538574,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211329/head_left_000.jpg",
+        "sha256": "f516a297fbc43f0b3d886b958a250fd55ef3877ba0cfb4b7dc969acdf4d7f827"
+      }
+    },
+    {
+      "key": "recorded__20261020_211439",
+      "batch": "recorded",
+      "session": "20261020_211439",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211439",
+      "duration": 55.250197410583496,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211439/head_left_000.jpg",
+        "sha256": "c9b1d76b6a6c114f1f29bd54fbec4e36bfbb37dc69c381cc4f4947c8377cd495"
+      }
+    },
+    {
+      "key": "recorded__20261020_211548",
+      "batch": "recorded",
+      "session": "20261020_211548",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211548",
+      "duration": 60.19550681114197,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211548/head_left_000.jpg",
+        "sha256": "a80f442cced292159c217ccd2e0842f80e2c62b4c34e70898dc8d1e18cb08d88"
+      }
+    },
+    {
+      "key": "recorded__20261020_211658",
+      "batch": "recorded",
+      "session": "20261020_211658",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211658",
+      "duration": 52.15937280654907,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211658/head_left_000.jpg",
+        "sha256": "9414777030b1d44d1aba4aa467c1d374020231fc371dbc08329b57820a5edeb4"
+      }
+    },
+    {
+      "key": "recorded__20261020_211807",
+      "batch": "recorded",
+      "session": "20261020_211807",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211807",
+      "duration": 61.25000309944153,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211807/head_left_000.jpg",
+        "sha256": "21ad503286890d0b169a872fdded530f9713c02ab6e15c7475a57528432f821b"
+      }
+    },
+    {
+      "key": "recorded__20261020_211929",
+      "batch": "recorded",
+      "session": "20261020_211929",
+      "source": "cluster_direct_copy/task3/recorded/20261020_211929",
+      "duration": 69.72497916221619,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_211929/head_left_000.jpg",
+        "sha256": "13fc32c41eee990c5485fb763540d9518dd0d4655d2812f6e79019dafb132e56"
+      }
+    },
+    {
+      "key": "recorded__20261020_212053",
+      "batch": "recorded",
+      "session": "20261020_212053",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212053",
+      "duration": 57.31715416908264,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212053/head_left_000.jpg",
+        "sha256": "69cbc0cf397c811c57089bbeb2e680302c5b8649849791ba088dbdd0064d81e7"
+      }
+    },
+    {
+      "key": "recorded__20261020_212238",
+      "batch": "recorded",
+      "session": "20261020_212238",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212238",
+      "duration": 57.05057120323181,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212238/head_left_000.jpg",
+        "sha256": "b550188d824dcc949915a02618db569b61cff22adf3b7b7831c6f4e4b9544440"
+      }
+    },
+    {
+      "key": "recorded__20261020_212348",
+      "batch": "recorded",
+      "session": "20261020_212348",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212348",
+      "duration": 48.699063301086426,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212348/head_left_000.jpg",
+        "sha256": "e31c51bf8b3cde02a17d14e86a8799f7e87211cb878030073d891fe6c93ae23b"
+      }
+    },
+    {
+      "key": "recorded__20261020_212448",
+      "batch": "recorded",
+      "session": "20261020_212448",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212448",
+      "duration": 55.4088773727417,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212448/head_left_000.jpg",
+        "sha256": "22c63804efcb74e3ada83a1448df2ed471c6af6bdd27808c086559787ca6ceaa"
+      }
+    },
+    {
+      "key": "recorded__20261020_212557",
+      "batch": "recorded",
+      "session": "20261020_212557",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212557",
+      "duration": 50.332082986831665,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212557/head_left_000.jpg",
+        "sha256": "59247eb8e07c72c699654b11d45f0c5d34c5807af7f4f89757ac97466e7f23ba"
+      }
+    },
+    {
+      "key": "recorded__20261020_212701",
+      "batch": "recorded",
+      "session": "20261020_212701",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212701",
+      "duration": 53.04924130439758,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212701/head_left_000.jpg",
+        "sha256": "7d535074801ae0084e8de3a206b0eec1e28f73647139c28ad875551fa7fde89d"
+      }
+    },
+    {
+      "key": "recorded__20261020_212812",
+      "batch": "recorded",
+      "session": "20261020_212812",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212812",
+      "duration": 58.28676986694336,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212812/head_left_000.jpg",
+        "sha256": "2003042caa2809549d2d1626fd1de05d4a9242e8c33187db33040aa41b8cf97e"
+      }
+    },
+    {
+      "key": "recorded__20261020_212925",
+      "batch": "recorded",
+      "session": "20261020_212925",
+      "source": "cluster_direct_copy/task3/recorded/20261020_212925",
+      "duration": 60.80872941017151,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_212925/head_left_000.jpg",
+        "sha256": "155f15211b3b1a2a4e56cbbd347498fb800afab805a3cab069a322ef52cd600c"
+      }
+    },
+    {
+      "key": "recorded__20261020_213143",
+      "batch": "recorded",
+      "session": "20261020_213143",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213143",
+      "duration": 54.99760413169861,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213143/head_left_000.jpg",
+        "sha256": "6084580eb76b67a44676a4bdc5739457a6ec65b3a8bd2f43a627ae79529ebd10"
+      }
+    },
+    {
+      "key": "recorded__20261020_213251",
+      "batch": "recorded",
+      "session": "20261020_213251",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213251",
+      "duration": 53.615506410598755,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213251/head_left_000.jpg",
+        "sha256": "28ca346ddb7b4faa728c39411842f89a7b6ac8b0a255c7ccd58e7c8edb466ffa"
+      }
+    },
+    {
+      "key": "recorded__20261020_213428",
+      "batch": "recorded",
+      "session": "20261020_213428",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213428",
+      "duration": 50.6986198425293,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213428/head_left_000.jpg",
+        "sha256": "b5b91812eaba19c483a7e6ad61c9594ccff0f0b8ae929587d2cac3d78e94d848"
+      }
+    },
+    {
+      "key": "recorded__20261020_213543",
+      "batch": "recorded",
+      "session": "20261020_213543",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213543",
+      "duration": 57.93084955215454,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213543/head_left_000.jpg",
+        "sha256": "411a90bee05f9009f07986cf5b81853585a1c733f31b3097c5f661031daa4732"
+      }
+    },
+    {
+      "key": "recorded__20261020_213657",
+      "batch": "recorded",
+      "session": "20261020_213657",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213657",
+      "duration": 59.95386862754822,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213657/head_left_000.jpg",
+        "sha256": "0fe7a4adbbcea44468a9055eca769bc2929276e6956719aed8d15bf994121f4f"
+      }
+    },
+    {
+      "key": "recorded__20261020_213810",
+      "batch": "recorded",
+      "session": "20261020_213810",
+      "source": "cluster_direct_copy/task3/recorded/20261020_213810",
+      "duration": 53.358479738235474,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_213810/head_left_000.jpg",
+        "sha256": "c5fce0679e6c51d10cfcbaf1374a0734bd9d6603bf4f4de43466fbc78efbee0b"
+      }
+    },
+    {
+      "key": "recorded__20261020_214110",
+      "batch": "recorded",
+      "session": "20261020_214110",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214110",
+      "duration": 50.487255811691284,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214110/head_left_000.jpg",
+        "sha256": "ecf53f806811d519a08200c81e4c3182e9fb1eb210640cb5f3f9db4ac7608209"
+      }
+    },
+    {
+      "key": "recorded__20261020_214217",
+      "batch": "recorded",
+      "session": "20261020_214217",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214217",
+      "duration": 55.243577003479004,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214217/head_left_000.jpg",
+        "sha256": "48277b2b22258c80d677712b19027d97898a4923415d261d8cb023447c352ba1"
+      }
+    },
+    {
+      "key": "recorded__20261020_214328",
+      "batch": "recorded",
+      "session": "20261020_214328",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214328",
+      "duration": 61.93362045288086,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214328/head_left_000.jpg",
+        "sha256": "16c8997a34a3545496b96f5f35c3af44b88743d7841d4a001f50b6452937e924"
+      }
+    },
+    {
+      "key": "recorded__20261020_214454",
+      "batch": "recorded",
+      "session": "20261020_214454",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214454",
+      "duration": 60.819557666778564,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214454/head_left_000.jpg",
+        "sha256": "fbaa1cfdf9fc82f21db632d96846031fd38d108ce1d79f79f87dc680e2b0d90d"
+      }
+    },
+    {
+      "key": "recorded__20261020_214608",
+      "batch": "recorded",
+      "session": "20261020_214608",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214608",
+      "duration": 49.17808675765991,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214608/head_left_000.jpg",
+        "sha256": "bb619ae236bcefd4b2a3ed02ff93c426b7877caa6967b8ec1785581bade4a935"
+      }
+    },
+    {
+      "key": "recorded__20261020_214714",
+      "batch": "recorded",
+      "session": "20261020_214714",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214714",
+      "duration": 48.297385931015015,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214714/head_left_000.jpg",
+        "sha256": "194a933be480742b5909685df1d1ad244bcf4332d4a0d2c0f5e30a72c70150b7"
+      }
+    },
+    {
+      "key": "recorded__20261020_214906",
+      "batch": "recorded",
+      "session": "20261020_214906",
+      "source": "cluster_direct_copy/task3/recorded/20261020_214906",
+      "duration": 60.020612478256226,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_214906/head_left_000.jpg",
+        "sha256": "77cbd2a2cce85231c866c7eedf166dbaaeffbf2c90d34f3e3cd71ae39d5d4f0e"
+      }
+    },
+    {
+      "key": "recorded__20261020_215030",
+      "batch": "recorded",
+      "session": "20261020_215030",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215030",
+      "duration": 52.35933804512024,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215030/head_left_000.jpg",
+        "sha256": "88a9ee233c50e24f6adb255159ffa7b065b088583f0be1abeb13bbc66bf16f25"
+      }
+    },
+    {
+      "key": "recorded__20261020_215137",
+      "batch": "recorded",
+      "session": "20261020_215137",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215137",
+      "duration": 51.66123342514038,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215137/head_left_000.jpg",
+        "sha256": "e4dc51826588f118e516ea9ed8aa4ad39a5677e0595695beba0ea6dada7622e6"
+      }
+    },
+    {
+      "key": "recorded__20261020_215243",
+      "batch": "recorded",
+      "session": "20261020_215243",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215243",
+      "duration": 45.48684310913086,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215243/head_left_000.jpg",
+        "sha256": "2ea9fbe358e6d587dd5c84eff288c39135d54e8fdf8026d04b4cac0a4a6f8b5a"
+      }
+    },
+    {
+      "key": "recorded__20261020_215351",
+      "batch": "recorded",
+      "session": "20261020_215351",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215351",
+      "duration": 51.5141716003418,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215351/head_left_000.jpg",
+        "sha256": "35b456e1651c52b5d9365533e21f140901026d403a0d94518e5d6416195a6054"
+      }
+    },
+    {
+      "key": "recorded__20261020_215504",
+      "batch": "recorded",
+      "session": "20261020_215504",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215504",
+      "duration": 50.18584728240967,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215504/head_left_000.jpg",
+        "sha256": "6c6c188710c2b43d43ae158cca35dfd845cdee1cdc08c709021bf3812ee6e884"
+      }
+    },
+    {
+      "key": "recorded__20261020_215623",
+      "batch": "recorded",
+      "session": "20261020_215623",
+      "source": "cluster_direct_copy/task3/recorded/20261020_215623",
+      "duration": 48.78202176094055,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded__20261020_215623/head_left_000.jpg",
+        "sha256": "0f18abdcabaafb2930340492700b94ee4b320454f58fff34d0379a7152cdf974"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_195737",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_195737",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_195737",
+      "duration": 56.21244430541992,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_195737/head_left_000.jpg",
+        "sha256": "61c9f9efc2f9f7b1a97a587df3127306bb83cc83cf5cf93ddcdf8f596cffb3f1"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_200528",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_200528",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_200528",
+      "duration": 50.85856318473816,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_200528/head_left_000.jpg",
+        "sha256": "05fd49e2d6e2f37f60a95845e4fa2b838b8d06c3a708a7a2ed19393ecedd3343"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_200749",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_200749",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_200749",
+      "duration": 62.251073598861694,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_200749/head_left_000.jpg",
+        "sha256": "b52c25b3a2b8200d30a5fcf095f1f9fedb846baca1c8c88bef8e66a60d3c3bdd"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_200938",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_200938",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_200938",
+      "duration": 53.82914137840271,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_200938/head_left_000.jpg",
+        "sha256": "7cd6752d4891927f2d513ffaf513411c5b4937ead54382255f8cd2e5267689f3"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_201046",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_201046",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_201046",
+      "duration": 52.688257455825806,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_201046/head_left_000.jpg",
+        "sha256": "3fcaf8846a2deb53765b0babd712e366223a849109a34f1697d1c05590b7004b"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_201234",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_201234",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_201234",
+      "duration": 75.54134440422058,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_201234/head_left_000.jpg",
+        "sha256": "deb68aa2e079a2f225265db4fd5f62e3206a4c740b9e718411cd92167ace061d"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_201909",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_201909",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_201909",
+      "duration": 71.75565767288208,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_201909/head_left_000.jpg",
+        "sha256": "24d458f141d19d916b9a2b3be125c36b02620c37e35d4ba78bfedee17deb1886"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_202121",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_202121",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_202121",
+      "duration": 72.57244229316711,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_202121/head_left_000.jpg",
+        "sha256": "cfb81f5b1295856a744f46da18e707212b938a627c555701e89abb136ebeea2e"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_202245",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_202245",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_202245",
+      "duration": 51.9712655544281,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_202245/head_left_000.jpg",
+        "sha256": "6baf6bcdad6f7dbf470de902face5a161a7c7d9a019a0f40ed30e9602ed4017f"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_202453",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_202453",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_202453",
+      "duration": 47.768434047698975,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_202453/head_left_000.jpg",
+        "sha256": "3eab33677124b0c1a8dcaf77fc58728edd6d2c44d6407820f3ad9e9bd5107716"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_202719",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_202719",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_202719",
+      "duration": 54.31243872642517,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_202719/head_left_000.jpg",
+        "sha256": "57ab1568da15f2aa904b70ce971cae3e8dbbee64997a1f28d84c3f583e25be24"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203012",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203012",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203012",
+      "duration": 60.82545757293701,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203012/head_left_000.jpg",
+        "sha256": "77b4795a19254ee023ffdb11b53dc9044d3378b9b872c845822a0cac7b67e8ee"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203130",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203130",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203130",
+      "duration": 61.44502782821655,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203130/head_left_000.jpg",
+        "sha256": "baee3c9b72d53207d20ab4ae548897db24898e64b6b5a0bd3e7f16d697ff2e6c"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203248",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203248",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203248",
+      "duration": 65.72987174987793,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203248/head_left_000.jpg",
+        "sha256": "03449b505144357c547ac619c2cbd90548f1a85c00b97b30be123eed0b165569"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203524",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203524",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203524",
+      "duration": 53.76308512687683,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203524/head_left_000.jpg",
+        "sha256": "7193c63889ad289bf84def451a3bdc7395b4cad6f4cfc6ccb739ad6242d67d6f"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203634",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203634",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203634",
+      "duration": 51.086641788482666,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203634/head_left_000.jpg",
+        "sha256": "6da9e14bd94f55218767dd987ee0bc990c5ec22fbcefc646ec8aaedb58854c6a"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203739",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203739",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203739",
+      "duration": 66.62010931968689,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203739/head_left_000.jpg",
+        "sha256": "93f0aba86b7e7d9beb033495253b348cdd8e667a9138147374e2e58b79e64cb1"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_203912",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_203912",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_203912",
+      "duration": 61.803608894348145,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_203912/head_left_000.jpg",
+        "sha256": "042c1f7e1280f1a1dd1668219ad04d5d067eaba6833233a12a9ab8d88ca13edf"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204028",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204028",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204028",
+      "duration": 60.2521116733551,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204028/head_left_000.jpg",
+        "sha256": "82e8df6180a8a7a0454224c1ea4ef14bc19a0cf85d5b27e816c3d1418a0f5a0f"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204205",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204205",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204205",
+      "duration": 56.599870920181274,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204205/head_left_000.jpg",
+        "sha256": "393bc626e975b9a5ad7404b35935785fffd19b8a0c5c72d29635ec6da792b575"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204403",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204403",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204403",
+      "duration": 62.19113230705261,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204403/head_left_000.jpg",
+        "sha256": "45675df849f12e634a49d55b17c3f9144ae40cb15778b31b8390da6d92991168"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204533",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204533",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204533",
+      "duration": 58.850160360336304,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204533/head_left_000.jpg",
+        "sha256": "585280ae78b45b9f9627611f1dbc6527a4580ebccb2bc8ebc61ebf3b091957d2"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204648",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204648",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204648",
+      "duration": 62.051008462905884,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204648/head_left_000.jpg",
+        "sha256": "7d3a5b7f483bebccf774ef41ce77f4d8768a73529ba71ec78d62e45d74f560d2"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_204919",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_204919",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_204919",
+      "duration": 77.00026273727417,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_204919/head_left_000.jpg",
+        "sha256": "0c34a907e39c5ffcb596e7d00732639df16f15654b5ab4cb59ba178f775627d1"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_205117",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_205117",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_205117",
+      "duration": 68.7639536857605,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_205117/head_left_000.jpg",
+        "sha256": "b540b170f6a05ba9276c4228007d1ef439755626100d5afe7e3d20a68c9c6704"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_205329",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_205329",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_205329",
+      "duration": 71.88133978843689,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_205329/head_left_000.jpg",
+        "sha256": "83369bc0c2a7706462dd3b937037a73487537ac845609f221c504a6775fae486"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_205626",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_205626",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_205626",
+      "duration": 57.980876445770264,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_205626/head_left_000.jpg",
+        "sha256": "639243b6e9611f0c40ac09984cfc481f9206fba9e4bc02b7dcd6ed41a5974db4"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_205746",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_205746",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_205746",
+      "duration": 59.206939935684204,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_205746/head_left_000.jpg",
+        "sha256": "bff423deca9c201729901aa579dc0312b04b90ad23f37ada77bf84e346dd83d1"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_205925",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_205925",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_205925",
+      "duration": 60.449289083480835,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_205925/head_left_000.jpg",
+        "sha256": "c9b74714d6f9bde5303d8730ffc6ae5e773322972aab7ed99d8f20f6aa8348bc"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_210042",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_210042",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_210042",
+      "duration": 63.46303844451904,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_210042/head_left_000.jpg",
+        "sha256": "1dec56cc9fefb68d98a690a2b484439145422cd6282fd239468fd4a5e4169e09"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_210812",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_210812",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_210812",
+      "duration": 66.31832933425903,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_210812/head_left_000.jpg",
+        "sha256": "05bc0c00791c1f5bb327ec736e67f8cd92f33af1dda3189c088868a969071887"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_210940",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_210940",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_210940",
+      "duration": 83.31185173988342,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_210940/head_left_000.jpg",
+        "sha256": "679289757ac553a6e014a4f063e7ff378eee1dd0f5ea9298e321ba7259bea6f4"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211122",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211122",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211122",
+      "duration": 61.4715461730957,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211122/head_left_000.jpg",
+        "sha256": "924c8a947bd716d32576c7dbb0bfdcb3b281db00447a9d1480cfa28b874b66b5"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211325",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211325",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211325",
+      "duration": 65.65951943397522,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211325/head_left_000.jpg",
+        "sha256": "3967d372e1a9c158079c359eb7021e8e82843ab721330b10d359cefc884ebe04"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211507",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211507",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211507",
+      "duration": 68.68269371986389,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211507/head_left_000.jpg",
+        "sha256": "52f0db358653842868cb4fbf890a77e7e87ec171bcaa4458f42804f4920c85c6"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211645",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211645",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211645",
+      "duration": 61.40748739242554,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211645/head_left_000.jpg",
+        "sha256": "dc8c9783f1591c7ce91c254fd34bd39d2583d458f89653a1c5e64d814c85a287"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211803",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211803",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211803",
+      "duration": 57.81192588806152,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211803/head_left_000.jpg",
+        "sha256": "663c9ed32c701f9da3cfe62d2db3b521441049f5e6edfae34e15e895c21e36c3"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_211914",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_211914",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_211914",
+      "duration": 54.26798486709595,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_211914/head_left_000.jpg",
+        "sha256": "a9a13a4398da60ad84587c89dc78840b415b9f3c00feaf3e4447673d7d9ba27e"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212028",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212028",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212028",
+      "duration": 82.78291702270508,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212028/head_left_000.jpg",
+        "sha256": "dd51f1e6594bec4efc8e2ff8e7b368bac8c4b61119362ef816d2fc384e9cd5e0"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212221",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212221",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212221",
+      "duration": 60.887145042419434,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212221/head_left_000.jpg",
+        "sha256": "d14fef3490fead09587a79eaa55940ca04a7709026cca5ada4a690b47d066ba8"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212359",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212359",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212359",
+      "duration": 74.91972923278809,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212359/head_left_000.jpg",
+        "sha256": "d239ec31cc23181e68b269302449c5a6dbbbf98e66bf500924f9a198de7062de"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212538",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212538",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212538",
+      "duration": 76.56250786781311,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212538/head_left_000.jpg",
+        "sha256": "f060654a8c50e0ccee2e820d02774a1b0cd51eff67566336b1262a5551c9e409"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212728",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212728",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212728",
+      "duration": 76.49922466278076,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212728/head_left_000.jpg",
+        "sha256": "9ac414a2105efb5b3514d354da81a6a9fc22c6a6682e76995d9f4885b4566b6f"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_212921",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_212921",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_212921",
+      "duration": 56.09619474411011,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_212921/head_left_000.jpg",
+        "sha256": "d94d981156ac7bccbcbb6399d089d2370c05c3b7b1b9bc40c453ba653cc64836"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213056",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213056",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213056",
+      "duration": 58.342034578323364,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213056/head_left_000.jpg",
+        "sha256": "4e3ffad2631f8c49a3940ec993ad54fea0093107f7849361d5e8c89b16835ae9"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213212",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213212",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213212",
+      "duration": 59.840962409973145,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213212/head_left_000.jpg",
+        "sha256": "b0dc9c9e8f2346856ee3a59d075353c6ef36873c3e39609696b06d7c13b6bbc4"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213333",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213333",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213333",
+      "duration": 53.31392455101013,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213333/head_left_000.jpg",
+        "sha256": "c0f4a637b7f72524c464a7a55303bb17dd93f77024689d34597e9a8fed524a81"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213456",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213456",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213456",
+      "duration": 52.68571186065674,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213456/head_left_000.jpg",
+        "sha256": "96e2dad6b14654dee39b77b9412b66ce7917d6a3738c8531f0d05486dc012802"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213604",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213604",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213604",
+      "duration": 52.270647048950195,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213604/head_left_000.jpg",
+        "sha256": "be4456cfcd0ea954125d673a2671e945a26848e39fab0c3ff610fc4eba5d4420"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213712",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213712",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213712",
+      "duration": 60.680336713790894,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213712/head_left_000.jpg",
+        "sha256": "e69345f69efc8d3c43bd0f94758162c789be150192b1d3de0d937222ae930049"
+      }
+    },
+    {
+      "key": "recorded_task3_1025_morning__20261020_213831",
+      "batch": "recorded_task3_1025_morning",
+      "session": "20261020_213831",
+      "source": "cluster_direct_copy/task3/recorded_task3_1025_morning/20261020_213831",
+      "duration": 58.53693437576294,
+      "head_left_first_frame": {
+        "index": 0,
+        "source_frame": "000000.jpg",
+        "file": "frames/recorded_task3_1025_morning__20261020_213831/head_left_000.jpg",
+        "sha256": "4ef0311171c3980e7c101988ffd40e8af392e91ae90a0471335f16142f53b08f"
+      }
+    }
+  ]
+}

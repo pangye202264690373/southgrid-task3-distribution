@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "recordings": 184,
+  "sample_images_hash_and_decode_checked": 1104,
+  "excluded_recording_directories": 0,
+  "direct_copy_source_only": true,
+  "reviewed_first_frames": 184,
+  "algorithm_results_kept": 138,
+  "manual_corrections": 46,
+  "counts_and_collection_plan_consistent": true,
+  "runtime": {
+    "python": "3.12.3",
+    "opencv": "4.6.0",
+    "numpy": "1.26.4",
+    "matplotlib": "3.6.3",
+    "pillow": "10.2.0"
+  },
+  "browser_checks": {
+    "direction_right_count": 6,
+    "filtered_original_images_loaded": 6,
+    "report_loaded": true
+  },
+  "publication": {
+    "head_left_first_frames": 184,
+    "annotated_images": 184,
+    "full_raw_dataset_included": false,
+    "absolute_account_paths_redacted": true,
+    "local_full_audit_image_count": 1104
+  }
+}
