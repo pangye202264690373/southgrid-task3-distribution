@@ -15,13 +15,13 @@
     "matplotlib": "3.6.3",
     "pillow": "10.2.0"
   },
-  "version": 2,
+  "version": "2.1",
   "geometry_v2": {
     "transformed_endpoints_then_midpoint_checked": 184,
     "transformed_angle_checked": 184,
     "maximum_inverse_center_error_uv": 1.4901161193847656e-07,
     "no_centers_clipped_to_grid": true,
-    "ratio_unknown_explicit": true
+    "ratio_unknown_explicit": false
   },
   "state_v2": {
     "reviewed": 184,
@@ -36,17 +36,22 @@
     "labels_independent_of_HSV_threshold": true
   },
   "joint_tensor_sums_match": true,
-  "browser_checks_v2": {
-    "nine_grid_cells": 9,
-    "all_recordings": 184,
-    "yellow_up_filter": 17,
-    "morning_side_filter": 49,
-    "back_left_cell_filter": 4,
-    "relative_and_absolute_scales": "PASS",
-    "original_rectified_and_overlay_modes": "PASS",
-    "black_up_filter": 44
-  },
   "v2_derived_images_decoded": 368,
+  "geometry_v21": {
+    "ratio": "approximately 34:26",
+    "direct_34x26_homography_agrees_for_all": 184,
+    "positions_and_states_unchanged": 184,
+    "rectified_pixel_span": [
+      680,
+      520
+    ],
+    "rectified_image_size": [
+      681,
+      521
+    ],
+    "all_count_tables_consistent": true,
+    "changed_direction_bins": 20
+  },
   "publication": {
     "head_left_first_frames": 184,
     "annotated_images": 184,

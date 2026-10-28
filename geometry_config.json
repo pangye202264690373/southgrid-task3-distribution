@@ -1,12 +1,23 @@
 {
-  "version": 2,
+  "version": "2.1",
   "reference_region": "white tape quadrilateral, approximately its centerline",
-  "physical_width_depth_ratio": null,
-  "user_description": "横向长度略大于纵向长度，精确比例不清楚",
-  "reference_width_depth_ratio": 1.0,
-  "angle_label": "归一化框内朝向",
-  "aspect_ratio_sensitivity": [1.0, 1.1, 1.2, 1.3],
+  "physical_width_depth_ratio": 1.3076923076923077,
+  "user_description": "用户重新确认：横向长与前后宽约34:26；未提供绝对长度单位",
+  "reference_width_depth_ratio": 1.3076923076923077,
+  "angle_label": "按34:26长宽比校正的框内朝向（近似）",
+  "aspect_ratio_sensitivity": [
+    1.0,
+    1.25,
+    1.3076923076923077,
+    1.35
+  ],
   "position_rule": "transform tip and tail independently, then average in normalized coordinates",
   "orientation_rule": "angle of transformed tail-to-tip vector; right=0, back/up=90 degrees",
-  "scope": "all collection recommendations restricted to the white tape task region"
+  "scope": "all collection recommendations restricted to the white tape task region",
+  "reference_dimensions": {
+    "horizontal": 34,
+    "front_back": 26,
+    "units": "relative",
+    "approximate": true
+  }
 }
