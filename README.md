@@ -16,7 +16,8 @@
 
 - `index.html`：交互报告；`figures/`：分布图；`annotated/`：184 张定位叠图；`rectified/`：184张白框校正图。
 - `frames/`：仅 184 张头左首帧，不包含完整视频或原始数据集。
-- `placements.csv`：逐段测量；`collection_plan.csv`：逐格补采建议。
+- 每张定位图/校正图直接标出所属格、行列编号、中心点与九宫格；支持编号查找、33段边界附近样本筛选和最靠近格线优先查看。
+- `placements.csv`：逐段测量（含格子标签和边界距离）；`collection_plan.csv`：逐格补采建议。
 - `inventory.json`：公开首帧来源标识与 SHA-256。
 - `algorithm_raw.json`、`manual_review.json`、`final_detections.json`：算法结果及复核记录。
 - `state_annotations.json`：184段三态标签、确认基准与证据视角；`geometry_config.json`：几何口径与长宽比假设。

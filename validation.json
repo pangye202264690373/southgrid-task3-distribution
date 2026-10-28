@@ -47,10 +47,30 @@
     ],
     "rectified_image_size": [
       681,
-      521
+      617
     ],
     "all_count_tables_consistent": true,
     "changed_direction_bins": 20
+  },
+  "per_recording_cell_review": {
+    "label_and_grid_consistent": 184,
+    "annotated_images_checked": 184,
+    "rectified_images_checked": 184,
+    "boundary_review_flag_count": 33,
+    "boundary_threshold_normalized": 0.02,
+    "note": "review flag, not measured localization uncertainty",
+    "rectified_content_pixel_span": [
+      680,
+      520
+    ],
+    "caption_added_outside_image_content": true,
+    "browser_checks": {
+      "search_019_returns": 1,
+      "search_019_label": "\u4e2d\u4e2d \u00b7 \u683c5\uff08\u7b2c2\u884c\uff0c\u7b2c2\u5217\uff09",
+      "near_boundary_filter_returns": 33,
+      "closest_boundary_first_index": 17,
+      "no_console_errors": true
+    }
   },
   "publication": {
     "head_left_first_frames": 184,

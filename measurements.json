@@ -43,7 +43,13 @@
     "v1_u": 0.5078057050704956,
     "v1_v": 0.6220381855964661,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.01060505032890393
+    "center_shift_uv_from_v1": 0.01060505032890393,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.05236356953779853,
+    "near_grid_boundary": false
   },
   {
     "index": 1,
@@ -89,7 +95,13 @@
     "v1_u": 0.5177627801895142,
     "v1_v": 0.4747005105018616,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.005531169083596692
+    "center_shift_uv_from_v1": 0.005531169083596692,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.1389091859261195,
+    "near_grid_boundary": false
   },
   {
     "index": 2,
@@ -135,7 +147,13 @@
     "v1_u": 0.5292314291000366,
     "v1_v": 0.45405685901641846,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.014335538103907612
+    "center_shift_uv_from_v1": 0.014335538103907612,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10821970055500668,
+    "near_grid_boundary": false
   },
   {
     "index": 3,
@@ -181,7 +199,13 @@
     "v1_u": 0.5826851725578308,
     "v1_v": 0.5979183316230774,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.017495792300000326
+    "center_shift_uv_from_v1": 0.017495792300000326,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08572725454966224,
+    "near_grid_boundary": false
   },
   {
     "index": 4,
@@ -227,7 +251,13 @@
     "v1_u": 0.1690359264612198,
     "v1_v": 0.5402818918228149,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.017698201520737936
+    "center_shift_uv_from_v1": 0.017698201520737936,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.14166686932245887,
+    "near_grid_boundary": false
   },
   {
     "index": 5,
@@ -273,7 +303,13 @@
     "v1_u": 0.9396970272064209,
     "v1_v": 0.4478243589401245,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.02194813470955911
+    "center_shift_uv_from_v1": 0.02194813470955911,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.09254526595274609,
+    "near_grid_boundary": false
   },
   {
     "index": 6,
@@ -319,7 +355,13 @@
     "v1_u": 0.5804415941238403,
     "v1_v": 0.6517458558082581,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.018488681896528983
+    "center_shift_uv_from_v1": 0.018488681896528983,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.03203400472799933,
+    "near_grid_boundary": false
   },
   {
     "index": 7,
@@ -365,7 +407,13 @@
     "v1_u": 0.46069762110710144,
     "v1_v": 0.607879102230072,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.010310116856503614
+    "center_shift_uv_from_v1": 0.010310116856503614,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.06593529383341468,
+    "near_grid_boundary": false
   },
   {
     "index": 8,
@@ -411,7 +459,13 @@
     "v1_u": 0.7675453424453735,
     "v1_v": 0.3627621531486511,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.001769691232176935
+    "center_shift_uv_from_v1": 0.001769691232176935,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.02914548913637799,
+    "near_grid_boundary": false
   },
   {
     "index": 9,
@@ -457,7 +511,13 @@
     "v1_u": 0.5806783437728882,
     "v1_v": 0.6415896415710449,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.01728554002491806
+    "center_shift_uv_from_v1": 0.01728554002491806,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04159998397032416,
+    "near_grid_boundary": false
   },
   {
     "index": 10,
@@ -503,7 +563,13 @@
     "v1_u": 0.707977294921875,
     "v1_v": 0.5663449764251709,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.013016265973256384
+    "center_shift_uv_from_v1": 0.013016265973256384,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.03549896677335107,
+    "near_grid_boundary": false
   },
   {
     "index": 11,
@@ -549,7 +615,13 @@
     "v1_u": 0.4384315311908722,
     "v1_v": 0.5525270104408264,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015189576231572173
+    "center_shift_uv_from_v1": 0.015189576231572173,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10038443903128308,
+    "near_grid_boundary": false
   },
   {
     "index": 12,
@@ -595,7 +667,13 @@
     "v1_u": 0.30596107244491577,
     "v1_v": 0.5698422789573669,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.016194599146940825
+    "center_shift_uv_from_v1": 0.016194599146940825,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.021483895679314913,
+    "near_grid_boundary": false
   },
   {
     "index": 13,
@@ -641,7 +719,13 @@
     "v1_u": 0.6841532588005066,
     "v1_v": 0.17988848686218262,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0013920825096872173
+    "center_shift_uv_from_v1": 0.0013920825096872173,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.018867408235867855,
+    "near_grid_boundary": true
   },
   {
     "index": 14,
@@ -687,7 +771,13 @@
     "v1_u": 0.24478679895401,
     "v1_v": 0.45027706027030945,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.01534723675999172
+    "center_shift_uv_from_v1": 0.01534723675999172,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.09511947383483249,
+    "near_grid_boundary": false
   },
   {
     "index": 15,
@@ -733,7 +823,13 @@
     "v1_u": 0.47215890884399414,
     "v1_v": 0.7470294833183289,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.002066038644530713
+    "center_shift_uv_from_v1": 0.002066038644530713,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08000235756238305,
+    "near_grid_boundary": false
   },
   {
     "index": 16,
@@ -779,7 +875,13 @@
     "v1_u": 0.7786868214607239,
     "v1_v": 0.46273359656333923,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.014928785545525935
+    "center_shift_uv_from_v1": 0.014928785545525935,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.1071900029977163,
+    "near_grid_boundary": false
   },
   {
     "index": 17,
@@ -825,7 +927,13 @@
     "v1_u": 0.23013675212860107,
     "v1_v": 0.6895878314971924,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.022185683553554835
+    "center_shift_uv_from_v1": 0.022185683553554835,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.001542439063390133,
+    "near_grid_boundary": true
   },
   {
     "index": 18,
@@ -871,7 +979,13 @@
     "v1_u": 0.16897553205490112,
     "v1_v": 0.4613158404827118,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.017483890485478035
+    "center_shift_uv_from_v1": 0.017483890485478035,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.11055137465397519,
+    "near_grid_boundary": false
   },
   {
     "index": 19,
@@ -917,7 +1031,13 @@
     "v1_u": 0.6675814986228943,
     "v1_v": 0.6274392008781433,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.016632511084549405
+    "center_shift_uv_from_v1": 0.016632511084549405,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.007012973229090336,
+    "near_grid_boundary": true
   },
   {
     "index": 20,
@@ -963,7 +1083,13 @@
     "v1_u": 0.6322981119155884,
     "v1_v": 0.38594990968704224,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.026392710215453034
+    "center_shift_uv_from_v1": 0.026392710215453034,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.025566021601359012,
+    "near_grid_boundary": false
   },
   {
     "index": 21,
@@ -1009,7 +1135,13 @@
     "v1_u": 0.44492828845977783,
     "v1_v": 0.606139063835144,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.020405173983728646
+    "center_shift_uv_from_v1": 0.020405173983728646,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08088235060373938,
+    "near_grid_boundary": false
   },
   {
     "index": 22,
@@ -1055,7 +1187,13 @@
     "v1_u": 0.20156985521316528,
     "v1_v": 0.6758244633674622,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.013718413026828897
+    "center_shift_uv_from_v1": 0.013718413026828897,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.0023704121510187415,
+    "near_grid_boundary": true
   },
   {
     "index": 23,
@@ -1101,7 +1239,13 @@
     "v1_u": 0.82210373878479,
     "v1_v": 0.638200044631958,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.007501615313948395
+    "center_shift_uv_from_v1": 0.007501615313948395,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.03322658936182654,
+    "near_grid_boundary": false
   },
   {
     "index": 24,
@@ -1147,7 +1291,13 @@
     "v1_u": 0.5668246746063232,
     "v1_v": 0.6481066346168518,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.021125654975591057
+    "center_shift_uv_from_v1": 0.021125654975591057,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.039260635773340824,
+    "near_grid_boundary": false
   },
   {
     "index": 25,
@@ -1193,7 +1343,13 @@
     "v1_u": 0.17267781496047974,
     "v1_v": 0.4679880440235138,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.017853952266217873
+    "center_shift_uv_from_v1": 0.017853952266217873,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1168505723277728,
+    "near_grid_boundary": false
   },
   {
     "index": 26,
@@ -1239,7 +1395,13 @@
     "v1_u": 0.747219979763031,
     "v1_v": 0.5149084329605103,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.016544936165324167
+    "center_shift_uv_from_v1": 0.016544936165324167,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.08186181386311853,
+    "near_grid_boundary": false
   },
   {
     "index": 27,
@@ -1285,7 +1447,13 @@
     "v1_u": 0.9327220916748047,
     "v1_v": 0.6691355109214783,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018974406453466916
+    "center_shift_uv_from_v1": 0.018974406453466916,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.01650143663088477,
+    "near_grid_boundary": true
   },
   {
     "index": 28,
@@ -1331,7 +1499,13 @@
     "v1_u": 0.2531660199165344,
     "v1_v": 0.4601133167743683,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.017238887616841735
+    "center_shift_uv_from_v1": 0.017238887616841735,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.08941004921992618,
+    "near_grid_boundary": false
   },
   {
     "index": 29,
@@ -1377,7 +1551,13 @@
     "v1_u": 0.8320842981338501,
     "v1_v": 0.23347878456115723,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.006969988648346425
+    "center_shift_uv_from_v1": 0.006969988648346425,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.10368674372633296,
+    "near_grid_boundary": false
   },
   {
     "index": 30,
@@ -1423,7 +1603,13 @@
     "v1_u": 0.4607855975627899,
     "v1_v": 0.5103467106819153,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.014620621215698508
+    "center_shift_uv_from_v1": 0.014620621215698508,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.12008980909983319,
+    "near_grid_boundary": false
   },
   {
     "index": 31,
@@ -1469,7 +1655,13 @@
     "v1_u": 0.7916820049285889,
     "v1_v": 0.5283273458480835,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0047554670613870805
+    "center_shift_uv_from_v1": 0.0047554670613870805,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.12063451608022058,
+    "near_grid_boundary": false
   },
   {
     "index": 32,
@@ -1515,7 +1707,13 @@
     "v1_u": 0.4068681299686432,
     "v1_v": 0.4848823845386505,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018433978282748998
+    "center_shift_uv_from_v1": 0.018433978282748998,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.07239239911238354,
+    "near_grid_boundary": false
   },
   {
     "index": 33,
@@ -1561,7 +1759,13 @@
     "v1_u": 0.715928316116333,
     "v1_v": 0.27248722314834595,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.012373383412374917
+    "center_shift_uv_from_v1": 0.012373383412374917,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.05681367715199792,
+    "near_grid_boundary": false
   },
   {
     "index": 34,
@@ -1607,7 +1811,13 @@
     "v1_u": 0.16462849080562592,
     "v1_v": 0.45998913049697876,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015707386305030904
+    "center_shift_uv_from_v1": 0.015707386305030904,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.11113365987936658,
+    "near_grid_boundary": false
   },
   {
     "index": 35,
@@ -1653,7 +1863,13 @@
     "v1_u": 0.19881987571716309,
     "v1_v": 0.4548487067222595,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.021454520167845777
+    "center_shift_uv_from_v1": 0.021454520167845777,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1003543610374133,
+    "near_grid_boundary": false
   },
   {
     "index": 36,
@@ -1699,7 +1915,13 @@
     "v1_u": 0.7670044898986816,
     "v1_v": 0.49073636531829834,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015235494435832934
+    "center_shift_uv_from_v1": 0.015235494435832934,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.09199138482411706,
+    "near_grid_boundary": false
   },
   {
     "index": 37,
@@ -1745,7 +1967,13 @@
     "v1_u": 0.30430155992507935,
     "v1_v": 0.5001077651977539,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.012278913455320908
+    "center_shift_uv_from_v1": 0.012278913455320908,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.01937380929787952,
+    "near_grid_boundary": true
   },
   {
     "index": 38,
@@ -1791,7 +2019,13 @@
     "v1_u": 0.2143671214580536,
     "v1_v": 0.4865434467792511,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015170704682371437
+    "center_shift_uv_from_v1": 0.015170704682371437,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12600942452748615,
+    "near_grid_boundary": false
   },
   {
     "index": 39,
@@ -1837,7 +2071,13 @@
     "v1_u": 0.29984790086746216,
     "v1_v": 0.7294310331344604,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.018912488491133226
+    "center_shift_uv_from_v1": 0.018912488491133226,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.025321056445439638,
+    "near_grid_boundary": false
   },
   {
     "index": 40,
@@ -1883,7 +2123,13 @@
     "v1_u": 0.7698108553886414,
     "v1_v": 0.46191245317459106,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.008409078524979222
+    "center_shift_uv_from_v1": 0.008409078524979222,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.09746017058690393,
+    "near_grid_boundary": false
   },
   {
     "index": 41,
@@ -1929,7 +2175,13 @@
     "v1_u": 0.16350975632667542,
     "v1_v": 0.6535457372665405,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.022208946388036062
+    "center_shift_uv_from_v1": 0.022208946388036062,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.03522397081057227,
+    "near_grid_boundary": false
   },
   {
     "index": 42,
@@ -1975,7 +2227,13 @@
     "v1_u": 0.7645072937011719,
     "v1_v": 0.25244367122650146,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.011539871640203949
+    "center_shift_uv_from_v1": 0.011539871640203949,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.089620487143596,
+    "near_grid_boundary": false
   },
   {
     "index": 43,
@@ -2021,7 +2279,13 @@
     "v1_u": 0.18230313062667847,
     "v1_v": 0.5951680541038513,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016504216639453267
+    "center_shift_uv_from_v1": 0.016504216639453267,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.08666215340296424,
+    "near_grid_boundary": false
   },
   {
     "index": 44,
@@ -2067,7 +2331,13 @@
     "v1_u": 0.8435855507850647,
     "v1_v": 0.8062698841094971,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.018021389702255874
+    "center_shift_uv_from_v1": 0.018021389702255874,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.12265389164288842,
+    "near_grid_boundary": false
   },
   {
     "index": 45,
@@ -2113,7 +2383,13 @@
     "v1_u": 0.23238278925418854,
     "v1_v": 0.414359986782074,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.006558195474897971
+    "center_shift_uv_from_v1": 0.006558195474897971,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.07709419230620068,
+    "near_grid_boundary": false
   },
   {
     "index": 46,
@@ -2159,7 +2435,13 @@
     "v1_u": 0.1453665941953659,
     "v1_v": 0.5446282029151917,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.02013110726219536
+    "center_shift_uv_from_v1": 0.02013110726219536,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1415454099575678,
+    "near_grid_boundary": false
   },
   {
     "index": 47,
@@ -2205,7 +2487,13 @@
     "v1_u": 0.14034605026245117,
     "v1_v": 0.5584540963172913,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.021760524974636136
+    "center_shift_uv_from_v1": 0.021760524974636136,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12933422128359473,
+    "near_grid_boundary": false
   },
   {
     "index": 48,
@@ -2251,7 +2539,13 @@
     "v1_u": 0.7690711617469788,
     "v1_v": 0.8269304633140564,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.0008112946986894414
+    "center_shift_uv_from_v1": 0.0008112946986894414,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.10159637530644738,
+    "near_grid_boundary": false
   },
   {
     "index": 49,
@@ -2297,7 +2591,13 @@
     "v1_u": 0.19066599011421204,
     "v1_v": 0.36606281995773315,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.020646331346232772
+    "center_shift_uv_from_v1": 0.020646331346232772,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.012367716679970442,
+    "near_grid_boundary": true
   },
   {
     "index": 50,
@@ -2343,7 +2643,13 @@
     "v1_u": 0.9266507029533386,
     "v1_v": 0.6298766732215881,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.021358065104827278
+    "center_shift_uv_from_v1": 0.021358065104827278,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.057920555273691776,
+    "near_grid_boundary": false
   },
   {
     "index": 51,
@@ -2389,7 +2695,13 @@
     "v1_u": 0.24678868055343628,
     "v1_v": 0.6816262006759644,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.012356092234471294
+    "center_shift_uv_from_v1": 0.012356092234471294,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.0051662524541219446,
+    "near_grid_boundary": true
   },
   {
     "index": 52,
@@ -2435,7 +2747,13 @@
     "v1_u": 0.6528230905532837,
     "v1_v": 0.4950004816055298,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.005984558318760938
+    "center_shift_uv_from_v1": 0.005984558318760938,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.008469964067141178,
+    "near_grid_boundary": true
   },
   {
     "index": 53,
@@ -2481,7 +2799,13 @@
     "v1_u": 0.5472159385681152,
     "v1_v": 0.3811473846435547,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.014409080518973183
+    "center_shift_uv_from_v1": 0.014409080518973183,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.036034914354483305,
+    "near_grid_boundary": false
   },
   {
     "index": 54,
@@ -2527,7 +2851,13 @@
     "v1_u": 0.5266806483268738,
     "v1_v": 0.41682010889053345,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.016579920923289318
+    "center_shift_uv_from_v1": 0.016579920923289318,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.06784893075625104,
+    "near_grid_boundary": false
   },
   {
     "index": 55,
@@ -2573,7 +2903,13 @@
     "v1_u": 0.7474059462547302,
     "v1_v": 0.7860698699951172,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0042898279218636206
+    "center_shift_uv_from_v1": 0.0042898279218636206,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.07664473851521814,
+    "near_grid_boundary": false
   },
   {
     "index": 56,
@@ -2619,7 +2955,13 @@
     "v1_u": 0.20152024924755096,
     "v1_v": 0.36136478185653687,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.012040377330017714
+    "center_shift_uv_from_v1": 0.012040377330017714,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.01891710857550305,
+    "near_grid_boundary": true
   },
   {
     "index": 57,
@@ -2665,7 +3007,13 @@
     "v1_u": 0.5430572032928467,
     "v1_v": 0.600328803062439,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.020532322726786737
+    "center_shift_uv_from_v1": 0.020532322726786737,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08589320878187812,
+    "near_grid_boundary": false
   },
   {
     "index": 58,
@@ -2711,7 +3059,13 @@
     "v1_u": 0.28078168630599976,
     "v1_v": 0.8407549858093262,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.0016971852430487755
+    "center_shift_uv_from_v1": 0.0016971852430487755,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.05085655425985652,
+    "near_grid_boundary": false
   },
   {
     "index": 59,
@@ -2757,7 +3111,13 @@
     "v1_u": 0.5640263557434082,
     "v1_v": 0.7140336036682129,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.01833893050727308
+    "center_shift_uv_from_v1": 0.01833893050727308,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.03151225050290429,
+    "near_grid_boundary": false
   },
   {
     "index": 60,
@@ -2803,7 +3163,13 @@
     "v1_u": 0.4077540338039398,
     "v1_v": 0.188254252076149,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0002569314033455359
+    "center_shift_uv_from_v1": 0.0002569314033455359,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.0741639683643977,
+    "near_grid_boundary": false
   },
   {
     "index": 61,
@@ -2849,7 +3215,13 @@
     "v1_u": 0.5190626978874207,
     "v1_v": 0.7200134992599487,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.013750061016093178
+    "center_shift_uv_from_v1": 0.013750061016093178,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04423614343007409,
+    "near_grid_boundary": false
   },
   {
     "index": 62,
@@ -2895,7 +3267,13 @@
     "v1_u": 0.34381935000419617,
     "v1_v": 0.3597544729709625,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.005925732344840761
+    "center_shift_uv_from_v1": 0.005925732344840761,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.005430447558561979,
+    "near_grid_boundary": true
   },
   {
     "index": 63,
@@ -2941,7 +3319,13 @@
     "v1_u": 0.4741484522819519,
     "v1_v": 0.5851685404777527,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015480116734715395
+    "center_shift_uv_from_v1": 0.015480116734715395,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.09645303587118781,
+    "near_grid_boundary": false
   },
   {
     "index": 64,
@@ -2987,7 +3371,13 @@
     "v1_u": 0.12417689710855484,
     "v1_v": 0.5911539196968079,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015571302908154318
+    "center_shift_uv_from_v1": 0.015571302908154318,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.09037832419077552,
+    "near_grid_boundary": false
   },
   {
     "index": 65,
@@ -3033,7 +3423,13 @@
     "v1_u": 0.3958500027656555,
     "v1_v": 0.7406098246574402,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.008139007160977861
+    "center_shift_uv_from_v1": 0.008139007160977861,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.06880023082097375,
+    "near_grid_boundary": false
   },
   {
     "index": 66,
@@ -3079,7 +3475,13 @@
     "v1_u": 0.3178631067276001,
     "v1_v": 0.1889549046754837,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0037530672251371326
+    "center_shift_uv_from_v1": 0.0037530672251371326,
+    "grid_cell_number": 1,
+    "grid_cell_label": "后左",
+    "grid_row_number": 1,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.0190136966605981,
+    "near_grid_boundary": true
   },
   {
     "index": 67,
@@ -3125,7 +3527,13 @@
     "v1_u": 0.528222918510437,
     "v1_v": 0.48454052209854126,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.010515175104689845
+    "center_shift_uv_from_v1": 0.010515175104689845,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.1437714199225108,
+    "near_grid_boundary": false
   },
   {
     "index": 68,
@@ -3171,7 +3579,13 @@
     "v1_u": 0.17624042928218842,
     "v1_v": 0.49520713090896606,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01568479545966503
+    "center_shift_uv_from_v1": 0.01568479545966503,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1461936856309573,
+    "near_grid_boundary": false
   },
   {
     "index": 69,
@@ -3217,7 +3631,13 @@
     "v1_u": 0.2889414429664612,
     "v1_v": 0.43671947717666626,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.010366388647791984
+    "center_shift_uv_from_v1": 0.010366388647791984,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.037107122441132845,
+    "near_grid_boundary": false
   },
   {
     "index": 70,
@@ -3263,7 +3683,13 @@
     "v1_u": 0.49655160307884216,
     "v1_v": 0.4811227321624756,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.021208305417426854
+    "center_shift_uv_from_v1": 0.021208305417426854,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.12658706555763882,
+    "near_grid_boundary": false
   },
   {
     "index": 71,
@@ -3309,7 +3735,13 @@
     "v1_u": 0.20605973899364471,
     "v1_v": 0.5885111689567566,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018159993415990165
+    "center_shift_uv_from_v1": 0.018159993415990165,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.0960400948921839,
+    "near_grid_boundary": false
   },
   {
     "index": 72,
@@ -3355,7 +3787,13 @@
     "v1_u": 0.5285524129867554,
     "v1_v": 0.650043785572052,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01959462230288547
+    "center_shift_uv_from_v1": 0.01959462230288547,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.03620181481043494,
+    "near_grid_boundary": false
   },
   {
     "index": 73,
@@ -3401,7 +3839,13 @@
     "v1_u": 0.2140197604894638,
     "v1_v": 0.5805141925811768,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.022244629964919695
+    "center_shift_uv_from_v1": 0.022244629964919695,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1083481262127558,
+    "near_grid_boundary": false
   },
   {
     "index": 74,
@@ -3447,7 +3891,13 @@
     "v1_u": 0.563305139541626,
     "v1_v": 0.5712234973907471,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.016869851079864898
+    "center_shift_uv_from_v1": 0.016869851079864898,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.0948247114817301,
+    "near_grid_boundary": false
   },
   {
     "index": 75,
@@ -3493,7 +3943,13 @@
     "v1_u": 0.6416686177253723,
     "v1_v": 0.3793889284133911,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.023957558504822497
+    "center_shift_uv_from_v1": 0.023957558504822497,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.02229104811946553,
+    "near_grid_boundary": false
   },
   {
     "index": 76,
@@ -3539,7 +3995,13 @@
     "v1_u": 0.21348533034324646,
     "v1_v": 0.42937564849853516,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.0244536683775544
+    "center_shift_uv_from_v1": 0.0244536683775544,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.07187097022930783,
+    "near_grid_boundary": false
   },
   {
     "index": 77,
@@ -3585,7 +4047,13 @@
     "v1_u": 0.5846318602561951,
     "v1_v": 0.7659279108047485,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.004812733424760488
+    "center_shift_uv_from_v1": 0.004812733424760488,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08669666449228919,
+    "near_grid_boundary": false
   },
   {
     "index": 78,
@@ -3631,7 +4099,13 @@
     "v1_u": 0.6221963763237,
     "v1_v": 0.23300227522850037,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.001128571503938218
+    "center_shift_uv_from_v1": 0.001128571503938218,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04334486524264014,
+    "near_grid_boundary": false
   },
   {
     "index": 79,
@@ -3677,7 +4151,13 @@
     "v1_u": 0.17577075958251953,
     "v1_v": 0.4975721836090088,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.029501047835163496
+    "center_shift_uv_from_v1": 0.029501047835163496,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.13475509981314343,
+    "near_grid_boundary": false
   },
   {
     "index": 80,
@@ -3723,7 +4203,13 @@
     "v1_u": 0.8054621815681458,
     "v1_v": 0.3640470802783966,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015305759939349085
+    "center_shift_uv_from_v1": 0.015305759939349085,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.015673773984114348,
+    "near_grid_boundary": true
   },
   {
     "index": 81,
@@ -3769,7 +4255,13 @@
     "v1_u": 0.5109854936599731,
     "v1_v": 0.25640735030174255,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.002897862852197207
+    "center_shift_uv_from_v1": 0.002897862852197207,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.07801355173190433,
+    "near_grid_boundary": false
   },
   {
     "index": 82,
@@ -3815,7 +4307,13 @@
     "v1_u": 0.213966503739357,
     "v1_v": 0.5456864237785339,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.027600184313101246
+    "center_shift_uv_from_v1": 0.027600184313101246,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12345496316750842,
+    "near_grid_boundary": false
   },
   {
     "index": 83,
@@ -3861,7 +4359,13 @@
     "v1_u": 0.45988038182258606,
     "v1_v": 0.45153313875198364,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.01204903371457756
+    "center_shift_uv_from_v1": 0.01204903371457756,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10793011883894604,
+    "near_grid_boundary": false
   },
   {
     "index": 84,
@@ -3907,7 +4411,13 @@
     "v1_u": 0.7338319420814514,
     "v1_v": 0.5459424257278442,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.020007882604494667
+    "center_shift_uv_from_v1": 0.020007882604494667,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.057930757602055905,
+    "near_grid_boundary": false
   },
   {
     "index": 85,
@@ -3953,7 +4463,13 @@
     "v1_u": 0.7339977622032166,
     "v1_v": 0.3842671811580658,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015482783324600369
+    "center_shift_uv_from_v1": 0.015482783324600369,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.038092280427614866,
+    "near_grid_boundary": false
   },
   {
     "index": 86,
@@ -3999,7 +4515,13 @@
     "v1_u": 0.6608020663261414,
     "v1_v": 0.4640011787414551,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0029735013581263167
+    "center_shift_uv_from_v1": 0.0029735013581263167,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.002914870778719547,
+    "near_grid_boundary": true
   },
   {
     "index": 87,
@@ -4045,7 +4567,13 @@
     "v1_u": 0.20507602393627167,
     "v1_v": 0.6111289858818054,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.020482409248569183
+    "center_shift_uv_from_v1": 0.020482409248569183,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.07485624651114142,
+    "near_grid_boundary": false
   },
   {
     "index": 88,
@@ -4091,7 +4619,13 @@
     "v1_u": 0.4232909381389618,
     "v1_v": 0.5616218447685242,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.02127570412962722
+    "center_shift_uv_from_v1": 0.02127570412962722,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08876674870649975,
+    "near_grid_boundary": false
   },
   {
     "index": 89,
@@ -4137,7 +4671,13 @@
     "v1_u": 0.5172033309936523,
     "v1_v": 0.22693976759910583,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0006617110800489019
+    "center_shift_uv_from_v1": 0.0006617110800489019,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10643606384595233,
+    "near_grid_boundary": false
   },
   {
     "index": 90,
@@ -4183,7 +4723,13 @@
     "v1_u": 0.24029625952243805,
     "v1_v": 0.5135011076927185,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01817977102295943
+    "center_shift_uv_from_v1": 0.01817977102295943,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.09691407283147174,
+    "near_grid_boundary": false
   },
   {
     "index": 91,
@@ -4229,7 +4775,13 @@
     "v1_u": 0.7432472705841064,
     "v1_v": 0.4098626971244812,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.010213040277515125
+    "center_shift_uv_from_v1": 0.010213040277515125,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.06848800430695218,
+    "near_grid_boundary": false
   },
   {
     "index": 92,
@@ -4275,7 +4827,13 @@
     "v1_u": 0.2961866855621338,
     "v1_v": 0.5432720184326172,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.019044677082778825
+    "center_shift_uv_from_v1": 0.019044677082778825,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.041746710737546266,
+    "near_grid_boundary": false
   },
   {
     "index": 93,
@@ -4321,7 +4879,13 @@
     "v1_u": 0.16256853938102722,
     "v1_v": 0.5727736949920654,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018120564455847716
+    "center_shift_uv_from_v1": 0.018120564455847716,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1118908176819483,
+    "near_grid_boundary": false
   },
   {
     "index": 94,
@@ -4367,7 +4931,13 @@
     "v1_u": 0.5087515711784363,
     "v1_v": 0.7082483172416687,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.007446996052838045
+    "center_shift_uv_from_v1": 0.007446996052838045,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.037843187650044796,
+    "near_grid_boundary": false
   },
   {
     "index": 95,
@@ -4413,7 +4983,13 @@
     "v1_u": 0.46183955669403076,
     "v1_v": 0.14265578985214233,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.017897770960631085
+    "center_shift_uv_from_v1": 0.017897770960631085,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.1220864901940028,
+    "near_grid_boundary": false
   },
   {
     "index": 96,
@@ -4459,7 +5035,13 @@
     "v1_u": 0.5031569600105286,
     "v1_v": 0.5265297293663025,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.019327966569588788
+    "center_shift_uv_from_v1": 0.019327966569588788,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.15817927817503608,
+    "near_grid_boundary": false
   },
   {
     "index": 97,
@@ -4505,7 +5087,13 @@
     "v1_u": 0.3732374608516693,
     "v1_v": 0.6841675639152527,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.027152054547144894
+    "center_shift_uv_from_v1": 0.027152054547144894,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.008763114611307743,
+    "near_grid_boundary": true
   },
   {
     "index": 98,
@@ -4551,7 +5139,13 @@
     "v1_u": 0.5271029472351074,
     "v1_v": 0.5314720869064331,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.014403964669203774
+    "center_shift_uv_from_v1": 0.014403964669203774,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.13009605805079139,
+    "near_grid_boundary": false
   },
   {
     "index": 99,
@@ -4597,7 +5191,13 @@
     "v1_u": 0.19091036915779114,
     "v1_v": 0.516484797000885,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.03005659019782605
+    "center_shift_uv_from_v1": 0.03005659019782605,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1482008708020051,
+    "near_grid_boundary": false
   },
   {
     "index": 100,
@@ -4643,7 +5243,13 @@
     "v1_u": 0.44316622614860535,
     "v1_v": 0.47940582036972046,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01691874889409888
+    "center_shift_uv_from_v1": 0.01691874889409888,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10642787317434949,
+    "near_grid_boundary": false
   },
   {
     "index": 101,
@@ -4689,7 +5295,13 @@
     "v1_u": 0.11026021093130112,
     "v1_v": 0.5001405477523804,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.02411227616011833
+    "center_shift_uv_from_v1": 0.02411227616011833,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1427381957570712,
+    "near_grid_boundary": false
   },
   {
     "index": 102,
@@ -4735,7 +5347,13 @@
     "v1_u": 0.2590024769306183,
     "v1_v": 0.868104875087738,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0010612152285581003
+    "center_shift_uv_from_v1": 0.0010612152285581003,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.07537825157244998,
+    "near_grid_boundary": false
   },
   {
     "index": 103,
@@ -4781,7 +5399,13 @@
     "v1_u": 0.19836769998073578,
     "v1_v": 0.5038761496543884,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.012534939889621748
+    "center_shift_uv_from_v1": 0.012534939889621748,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12906314556797344,
+    "near_grid_boundary": false
   },
   {
     "index": 104,
@@ -4827,7 +5451,13 @@
     "v1_u": 0.18593445420265198,
     "v1_v": 0.7353468537330627,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.012719809070066817
+    "center_shift_uv_from_v1": 0.012719809070066817,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.05815463264783227,
+    "near_grid_boundary": false
   },
   {
     "index": 105,
@@ -4873,7 +5503,13 @@
     "v1_u": 0.3416421711444855,
     "v1_v": 0.6836502552032471,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.004723220531916436
+    "center_shift_uv_from_v1": 0.004723220531916436,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.004293839136759459,
+    "near_grid_boundary": true
   },
   {
     "index": 106,
@@ -4919,7 +5555,13 @@
     "v1_u": 0.7668285965919495,
     "v1_v": 0.5347540378570557,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.020313614398576076
+    "center_shift_uv_from_v1": 0.020313614398576076,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.09660579760869348,
+    "near_grid_boundary": false
   },
   {
     "index": 107,
@@ -4965,7 +5607,13 @@
     "v1_u": 0.7140372395515442,
     "v1_v": 0.6333333849906921,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.013928710683905408
+    "center_shift_uv_from_v1": 0.013928710683905408,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.041627367337544796,
+    "near_grid_boundary": false
   },
   {
     "index": 108,
@@ -5011,7 +5659,13 @@
     "v1_u": 0.20761369168758392,
     "v1_v": 0.49870654940605164,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.01880173757429028
+    "center_shift_uv_from_v1": 0.01880173757429028,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.11675610517462093,
+    "near_grid_boundary": false
   },
   {
     "index": 109,
@@ -5057,7 +5711,13 @@
     "v1_u": 0.59303218126297,
     "v1_v": 0.6890178918838501,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.008283744065970943
+    "center_shift_uv_from_v1": 0.008283744065970943,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.017696549495061276,
+    "near_grid_boundary": true
   },
   {
     "index": 110,
@@ -5103,7 +5763,13 @@
     "v1_u": 0.4877218008041382,
     "v1_v": 0.650578498840332,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.015501988277079912
+    "center_shift_uv_from_v1": 0.015501988277079912,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.029613355795542362,
+    "near_grid_boundary": false
   },
   {
     "index": 111,
@@ -5149,7 +5815,13 @@
     "v1_u": 0.3680956959724426,
     "v1_v": 0.6999605298042297,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.007986842547954426
+    "center_shift_uv_from_v1": 0.007986842547954426,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.02794277916351956,
+    "near_grid_boundary": false
   },
   {
     "index": 112,
@@ -5195,7 +5867,13 @@
     "v1_u": 0.7999096512794495,
     "v1_v": 0.8490644097328186,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.003776785835093989
+    "center_shift_uv_from_v1": 0.003776785835093989,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.12961189945538842,
+    "near_grid_boundary": false
   },
   {
     "index": 113,
@@ -5241,7 +5919,13 @@
     "v1_u": 0.22440823912620544,
     "v1_v": 0.904731273651123,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.003737804582787446
+    "center_shift_uv_from_v1": 0.003737804582787446,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.1123044652243455,
+    "near_grid_boundary": false
   },
   {
     "index": 114,
@@ -5287,7 +5971,13 @@
     "v1_u": 0.4765632450580597,
     "v1_v": 0.0869889035820961,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.002039391840197038
+    "center_shift_uv_from_v1": 0.002039391840197038,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.145269180337588,
+    "near_grid_boundary": false
   },
   {
     "index": 115,
@@ -5333,7 +6023,13 @@
     "v1_u": 0.9262441396713257,
     "v1_v": 0.5022331476211548,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.02163148187619556
+    "center_shift_uv_from_v1": 0.02163148187619556,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.14736607174078625,
+    "near_grid_boundary": false
   },
   {
     "index": 116,
@@ -5379,7 +6075,13 @@
     "v1_u": 0.00933685153722763,
     "v1_v": 0.2719804644584656,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.02118793846818795
+    "center_shift_uv_from_v1": 0.02118793846818795,
+    "grid_cell_number": 1,
+    "grid_cell_label": "后左",
+    "grid_row_number": 1,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.08253985208769637,
+    "near_grid_boundary": false
   },
   {
     "index": 117,
@@ -5425,7 +6127,13 @@
     "v1_u": 0.26486435532569885,
     "v1_v": 0.3569181263446808,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.013504517713516146
+    "center_shift_uv_from_v1": 0.013504517713516146,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.014058301846186338,
+    "near_grid_boundary": true
   },
   {
     "index": 118,
@@ -5471,7 +6179,13 @@
     "v1_u": 0.23464292287826538,
     "v1_v": 0.46880605816841125,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.014012612839459399
+    "center_shift_uv_from_v1": 0.014012612839459399,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.09082889308532077,
+    "near_grid_boundary": false
   },
   {
     "index": 119,
@@ -5517,7 +6231,13 @@
     "v1_u": 0.6832852363586426,
     "v1_v": 0.5681531429290771,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.005076447497975601
+    "center_shift_uv_from_v1": 0.005076447497975601,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.012399574120839474,
+    "near_grid_boundary": true
   },
   {
     "index": 120,
@@ -5563,7 +6283,13 @@
     "v1_u": 0.6895464658737183,
     "v1_v": 0.6206730604171753,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.002063899997134348
+    "center_shift_uv_from_v1": 0.002063899997134348,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.020925362904866573,
+    "near_grid_boundary": false
   },
   {
     "index": 121,
@@ -5609,7 +6335,13 @@
     "v1_u": 0.5522056221961975,
     "v1_v": 0.223170205950737,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.011574738886719522
+    "center_shift_uv_from_v1": 0.011574738886719522,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10590627292791999,
+    "near_grid_boundary": false
   },
   {
     "index": 122,
@@ -5655,7 +6387,13 @@
     "v1_u": 0.6421998739242554,
     "v1_v": 0.4541447162628174,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.0016230190479192747
+    "center_shift_uv_from_v1": 0.0016230190479192747,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.02292717496554053,
+    "near_grid_boundary": false
   },
   {
     "index": 123,
@@ -5701,7 +6439,13 @@
     "v1_u": 0.2299932986497879,
     "v1_v": 0.31958234310150146,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.012713425847860706
+    "center_shift_uv_from_v1": 0.012713425847860706,
+    "grid_cell_number": 1,
+    "grid_cell_label": "后左",
+    "grid_row_number": 1,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.023617410411437334,
+    "near_grid_boundary": false
   },
   {
     "index": 124,
@@ -5747,7 +6491,13 @@
     "v1_u": 0.6502466201782227,
     "v1_v": 0.7620785236358643,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01903015524796278
+    "center_shift_uv_from_v1": 0.01903015524796278,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.006861786047617557,
+    "near_grid_boundary": true
   },
   {
     "index": 125,
@@ -5793,7 +6543,13 @@
     "v1_u": 0.5346965789794922,
     "v1_v": 0.5694794058799744,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.016061812419186878
+    "center_shift_uv_from_v1": 0.016061812419186878,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.11292486886183417,
+    "near_grid_boundary": false
   },
   {
     "index": 126,
@@ -5839,7 +6595,13 @@
     "v1_u": 0.27110186219215393,
     "v1_v": 0.5303869247436523,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.02909253972653854
+    "center_shift_uv_from_v1": 0.02909253972653854,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.06198548277219135,
+    "near_grid_boundary": false
   },
   {
     "index": 127,
@@ -5885,7 +6647,13 @@
     "v1_u": 0.2539551854133606,
     "v1_v": 0.5057581067085266,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018786800151492537
+    "center_shift_uv_from_v1": 0.018786800151492537,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.07601282497247058,
+    "near_grid_boundary": false
   },
   {
     "index": 128,
@@ -5931,7 +6699,13 @@
     "v1_u": 0.3419485092163086,
     "v1_v": 0.8691052198410034,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0020737480594762293
+    "center_shift_uv_from_v1": 0.0020737480594762293,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.006553495923678099,
+    "near_grid_boundary": true
   },
   {
     "index": 129,
@@ -5977,7 +6751,13 @@
     "v1_u": 0.7918160557746887,
     "v1_v": 0.40723562240600586,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.01602373659669463
+    "center_shift_uv_from_v1": 0.01602373659669463,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.05820458630720776,
+    "near_grid_boundary": false
   },
   {
     "index": 130,
@@ -6023,7 +6803,13 @@
     "v1_u": 0.2950972318649292,
     "v1_v": 0.4528520107269287,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.013065650426036442
+    "center_shift_uv_from_v1": 0.013065650426036442,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.03000055750211078,
+    "near_grid_boundary": false
   },
   {
     "index": 131,
@@ -6069,7 +6855,13 @@
     "v1_u": 0.39141643047332764,
     "v1_v": 0.7123271822929382,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.005329087244490793
+    "center_shift_uv_from_v1": 0.005329087244490793,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04331328471501672,
+    "near_grid_boundary": false
   },
   {
     "index": 132,
@@ -6115,7 +6907,13 @@
     "v1_u": 0.5115147829055786,
     "v1_v": 0.2104988694190979,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.001824761992089529
+    "center_shift_uv_from_v1": 0.001824761992089529,
+    "grid_cell_number": 2,
+    "grid_cell_label": "后中",
+    "grid_row_number": 1,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.12330624957879383,
+    "near_grid_boundary": false
   },
   {
     "index": 133,
@@ -6161,7 +6959,13 @@
     "v1_u": 0.7936280369758606,
     "v1_v": 0.6646780967712402,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018756490385118122
+    "center_shift_uv_from_v1": 0.018756490385118122,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.020737896362940433,
+    "near_grid_boundary": false
   },
   {
     "index": 134,
@@ -6207,7 +7011,13 @@
     "v1_u": 0.7350061535835266,
     "v1_v": 0.728035569190979,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.017885741678664736
+    "center_shift_uv_from_v1": 0.017885741678664736,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.04394439359505975,
+    "near_grid_boundary": false
   },
   {
     "index": 135,
@@ -6253,7 +7063,13 @@
     "v1_u": 0.6145197749137878,
     "v1_v": 0.44492068886756897,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.01061786652704248
+    "center_shift_uv_from_v1": 0.01061786652704248,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04492061833540595,
+    "near_grid_boundary": false
   },
   {
     "index": 136,
@@ -6299,7 +7115,13 @@
     "v1_u": 0.6083899736404419,
     "v1_v": 0.5451056957244873,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.019898548332756883
+    "center_shift_uv_from_v1": 0.019898548332756883,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.053343186775843265,
+    "near_grid_boundary": false
   },
   {
     "index": 137,
@@ -6345,7 +7167,13 @@
     "v1_u": 0.3860100209712982,
     "v1_v": 0.5134508013725281,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018675063532707026
+    "center_shift_uv_from_v1": 0.018675063532707026,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.052471975485483824,
+    "near_grid_boundary": false
   },
   {
     "index": 138,
@@ -6391,7 +7219,13 @@
     "v1_u": 0.5476974844932556,
     "v1_v": 0.511195957660675,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.016750834737982306
+    "center_shift_uv_from_v1": 0.016750834737982306,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.11033725241820014,
+    "near_grid_boundary": false
   },
   {
     "index": 139,
@@ -6437,7 +7271,13 @@
     "v1_u": 0.2361249327659607,
     "v1_v": 0.44368353486061096,
     "v1_direction_bin": 0,
-    "center_shift_uv_from_v1": 0.0006657950286637499
+    "center_shift_uv_from_v1": 0.0006657950286637499,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.09654305254419643,
+    "near_grid_boundary": false
   },
   {
     "index": 140,
@@ -6483,7 +7323,13 @@
     "v1_u": 0.5917820930480957,
     "v1_v": 0.5796950459480286,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.019556881120369768
+    "center_shift_uv_from_v1": 0.019556881120369768,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.07986412445704139,
+    "near_grid_boundary": false
   },
   {
     "index": 141,
@@ -6529,7 +7375,13 @@
     "v1_u": 0.7495813965797424,
     "v1_v": 0.5765884518623352,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01698970533282678
+    "center_shift_uv_from_v1": 0.01698970533282678,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.08228727181752526,
+    "near_grid_boundary": false
   },
   {
     "index": 142,
@@ -6575,7 +7427,13 @@
     "v1_u": 0.7075859904289246,
     "v1_v": 0.2657826542854309,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.002240614836231971
+    "center_shift_uv_from_v1": 0.002240614836231971,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.03874432047208154,
+    "near_grid_boundary": false
   },
   {
     "index": 143,
@@ -6621,7 +7479,13 @@
     "v1_u": 0.6218095421791077,
     "v1_v": 0.38991692662239075,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016658064492317274
+    "center_shift_uv_from_v1": 0.016658064492317274,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.040161083141962706,
+    "near_grid_boundary": false
   },
   {
     "index": 144,
@@ -6667,7 +7531,13 @@
     "v1_u": 0.7250968217849731,
     "v1_v": 0.45452213287353516,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015972483108157288
+    "center_shift_uv_from_v1": 0.015972483108157288,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.06320415933926904,
+    "near_grid_boundary": false
   },
   {
     "index": 145,
@@ -6713,7 +7583,13 @@
     "v1_u": 0.3259882628917694,
     "v1_v": 0.46029865741729736,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.016616016409059284
+    "center_shift_uv_from_v1": 0.016616016409059284,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.009725739558537783,
+    "near_grid_boundary": true
   },
   {
     "index": 146,
@@ -6759,7 +7635,13 @@
     "v1_u": 0.6870219111442566,
     "v1_v": 0.4935511648654938,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.015190273612397257
+    "center_shift_uv_from_v1": 0.015190273612397257,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.02672143777211511,
+    "near_grid_boundary": false
   },
   {
     "index": 147,
@@ -6805,7 +7687,13 @@
     "v1_u": 0.08283461630344391,
     "v1_v": 0.5622220039367676,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.021103921585377307
+    "center_shift_uv_from_v1": 0.021103921585377307,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12500969568888343,
+    "near_grid_boundary": false
   },
   {
     "index": 148,
@@ -6851,7 +7739,13 @@
     "v1_u": 0.7814108729362488,
     "v1_v": 0.5132454037666321,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.016887064528795178
+    "center_shift_uv_from_v1": 0.016887064528795178,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.11311834057172143,
+    "near_grid_boundary": false
   },
   {
     "index": 149,
@@ -6897,7 +7791,13 @@
     "v1_u": 0.16413386166095734,
     "v1_v": 0.628461480140686,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.017991733388500204
+    "center_shift_uv_from_v1": 0.017991733388500204,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.054640183846155765,
+    "near_grid_boundary": false
   },
   {
     "index": 150,
@@ -6943,7 +7843,13 @@
     "v1_u": 0.869615912437439,
     "v1_v": 0.6707678437232971,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01857501606121504
+    "center_shift_uv_from_v1": 0.01857501606121504,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.014473746220270756,
+    "near_grid_boundary": true
   },
   {
     "index": 151,
@@ -6989,7 +7895,13 @@
     "v1_u": 0.7010709643363953,
     "v1_v": 0.32215359807014465,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.008872991285849431
+    "center_shift_uv_from_v1": 0.008872991285849431,
+    "grid_cell_number": 3,
+    "grid_cell_label": "后右",
+    "grid_row_number": 1,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.016831104954083742,
+    "near_grid_boundary": true
   },
   {
     "index": 152,
@@ -7035,7 +7947,13 @@
     "v1_u": 0.27721136808395386,
     "v1_v": 0.6987704038619995,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016159916020118324
+    "center_shift_uv_from_v1": 0.016159916020118324,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.01663832863171899,
+    "near_grid_boundary": true
   },
   {
     "index": 153,
@@ -7081,7 +7999,13 @@
     "v1_u": 0.276738703250885,
     "v1_v": 0.5590246319770813,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016427599854965398
+    "center_shift_uv_from_v1": 0.016427599854965398,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.06259346505006153,
+    "near_grid_boundary": false
   },
   {
     "index": 154,
@@ -7127,7 +8051,13 @@
     "v1_u": 0.5808537602424622,
     "v1_v": 0.6359319090843201,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015036674113527219
+    "center_shift_uv_from_v1": 0.015036674113527219,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.044645244876543644,
+    "near_grid_boundary": false
   },
   {
     "index": 155,
@@ -7173,7 +8103,13 @@
     "v1_u": 0.24618200957775116,
     "v1_v": 0.47273069620132446,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.002043486035711398
+    "center_shift_uv_from_v1": 0.002043486035711398,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.08907832515736419,
+    "near_grid_boundary": false
   },
   {
     "index": 156,
@@ -7219,7 +8155,13 @@
     "v1_u": 0.47618407011032104,
     "v1_v": 0.4744335114955902,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.007652832604752128
+    "center_shift_uv_from_v1": 0.007652832604752128,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.1367846230665843,
+    "near_grid_boundary": false
   },
   {
     "index": 157,
@@ -7265,7 +8207,13 @@
     "v1_u": 0.7669600248336792,
     "v1_v": 0.5579270124435425,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.011231846652321022
+    "center_shift_uv_from_v1": 0.011231846652321022,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.10730664928754174,
+    "near_grid_boundary": false
   },
   {
     "index": 158,
@@ -7311,7 +8259,13 @@
     "v1_u": 0.821074366569519,
     "v1_v": 0.4351637065410614,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.01987134241537856
+    "center_shift_uv_from_v1": 0.01987134241537856,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.0819842169682185,
+    "near_grid_boundary": false
   },
   {
     "index": 159,
@@ -7357,7 +8311,13 @@
     "v1_u": 0.6489472389221191,
     "v1_v": 0.624460756778717,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.009428056210744322
+    "center_shift_uv_from_v1": 0.009428056210744322,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.02422870198885596,
+    "near_grid_boundary": false
   },
   {
     "index": 160,
@@ -7403,7 +8363,13 @@
     "v1_u": 0.3319202661514282,
     "v1_v": 0.4342557489871979,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.017153154814000343
+    "center_shift_uv_from_v1": 0.017153154814000343,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.002281938989957155,
+    "near_grid_boundary": true
   },
   {
     "index": 161,
@@ -7449,7 +8415,13 @@
     "v1_u": 0.14101609587669373,
     "v1_v": 0.7165942192077637,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.016933718208897112
+    "center_shift_uv_from_v1": 0.016933718208897112,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.03302759428819024,
+    "near_grid_boundary": false
   },
   {
     "index": 162,
@@ -7495,7 +8467,13 @@
     "v1_u": 0.13466447591781616,
     "v1_v": 0.306670218706131,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.014282785010421637
+    "center_shift_uv_from_v1": 0.014282785010421637,
+    "grid_cell_number": 1,
+    "grid_cell_label": "后左",
+    "grid_row_number": 1,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.03981742759545642,
+    "near_grid_boundary": false
   },
   {
     "index": 163,
@@ -7541,7 +8519,13 @@
     "v1_u": 0.19601860642433167,
     "v1_v": 0.5324358344078064,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.010848447387790634
+    "center_shift_uv_from_v1": 0.010848447387790634,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.12902251568933326,
+    "near_grid_boundary": false
   },
   {
     "index": 164,
@@ -7587,7 +8571,13 @@
     "v1_u": 0.4558437168598175,
     "v1_v": 0.5805586576461792,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.022083079363713613
+    "center_shift_uv_from_v1": 0.022083079363713613,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.10819038252035773,
+    "near_grid_boundary": false
   },
   {
     "index": 165,
@@ -7633,7 +8623,13 @@
     "v1_u": 0.800700843334198,
     "v1_v": 0.40680423378944397,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016485300720463537
+    "center_shift_uv_from_v1": 0.016485300720463537,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.0577595705787341,
+    "near_grid_boundary": false
   },
   {
     "index": 166,
@@ -7679,7 +8675,13 @@
     "v1_u": 0.3482988774776459,
     "v1_v": 0.5266048908233643,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.01591943418820288
+    "center_shift_uv_from_v1": 0.01591943418820288,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.019229824344317137,
+    "near_grid_boundary": true
   },
   {
     "index": 167,
@@ -7725,7 +8727,13 @@
     "v1_u": 0.8215557336807251,
     "v1_v": 0.4266992211341858,
     "v1_direction_bin": 1,
-    "center_shift_uv_from_v1": 0.016474192760718622
+    "center_shift_uv_from_v1": 0.016474192760718622,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.08176905165115994,
+    "near_grid_boundary": false
   },
   {
     "index": 168,
@@ -7771,7 +8779,13 @@
     "v1_u": 0.6612549424171448,
     "v1_v": 0.36045464873313904,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.01605858133102741
+    "center_shift_uv_from_v1": 0.01605858133102741,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.012718180815378788,
+    "near_grid_boundary": true
   },
   {
     "index": 169,
@@ -7817,7 +8831,13 @@
     "v1_u": 0.32467150688171387,
     "v1_v": 0.5068249702453613,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.01448375277834919
+    "center_shift_uv_from_v1": 0.01448375277834919,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.013555546601613344,
+    "near_grid_boundary": true
   },
   {
     "index": 170,
@@ -7863,7 +8883,13 @@
     "v1_u": 0.4240592122077942,
     "v1_v": 0.5411081910133362,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.015834577765222964
+    "center_shift_uv_from_v1": 0.015834577765222964,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08758809665838879,
+    "near_grid_boundary": false
   },
   {
     "index": 171,
@@ -7909,7 +8935,13 @@
     "v1_u": 0.8173919320106506,
     "v1_v": 0.5777910351753235,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.019817121600523572
+    "center_shift_uv_from_v1": 0.019817121600523572,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.10853337744871772,
+    "near_grid_boundary": false
   },
   {
     "index": 172,
@@ -7955,7 +8987,13 @@
     "v1_u": 0.4113359749317169,
     "v1_v": 0.8898236155509949,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0026354460530279285
+    "center_shift_uv_from_v1": 0.0026354460530279285,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.08062155048052472,
+    "near_grid_boundary": false
   },
   {
     "index": 173,
@@ -8001,7 +9039,13 @@
     "v1_u": 0.29804447293281555,
     "v1_v": 0.6824977397918701,
     "v1_direction_bin": 7,
-    "center_shift_uv_from_v1": 0.015765470337137703
+    "center_shift_uv_from_v1": 0.015765470337137703,
+    "grid_cell_number": 7,
+    "grid_cell_label": "前左",
+    "grid_row_number": 3,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.0021001150210698816,
+    "near_grid_boundary": true
   },
   {
     "index": 174,
@@ -8047,7 +9091,13 @@
     "v1_u": 0.7666774392127991,
     "v1_v": 0.7005728483200073,
     "v1_direction_bin": 5,
-    "center_shift_uv_from_v1": 0.02155283844155035
+    "center_shift_uv_from_v1": 0.02155283844155035,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.01591380437215173,
+    "near_grid_boundary": true
   },
   {
     "index": 175,
@@ -8093,7 +9143,13 @@
     "v1_u": 0.2390483021736145,
     "v1_v": 0.5913069248199463,
     "v1_direction_bin": 6,
-    "center_shift_uv_from_v1": 0.017082197571597346
+    "center_shift_uv_from_v1": 0.017082197571597346,
+    "grid_cell_number": 4,
+    "grid_cell_label": "中左",
+    "grid_row_number": 2,
+    "grid_col_number": 1,
+    "distance_to_grid_line_uv": 0.08764756222565967,
+    "near_grid_boundary": false
   },
   {
     "index": 176,
@@ -8139,7 +9195,13 @@
     "v1_u": 0.37948960065841675,
     "v1_v": 0.4861562252044678,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018906987695728985
+    "center_shift_uv_from_v1": 0.018906987695728985,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.043497676650683104,
+    "near_grid_boundary": false
   },
   {
     "index": 177,
@@ -8185,7 +9247,13 @@
     "v1_u": 0.5578177571296692,
     "v1_v": 0.3952128291130066,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.018051357043391215
+    "center_shift_uv_from_v1": 0.018051357043391215,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.04382918650905293,
+    "near_grid_boundary": false
   },
   {
     "index": 178,
@@ -8231,7 +9299,13 @@
     "v1_u": 0.71966153383255,
     "v1_v": 0.3488452434539795,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.009161915268118336
+    "center_shift_uv_from_v1": 0.009161915268118336,
+    "grid_cell_number": 6,
+    "grid_cell_label": "中右",
+    "grid_row_number": 2,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.009013439218203245,
+    "near_grid_boundary": true
   },
   {
     "index": 179,
@@ -8277,7 +9351,13 @@
     "v1_u": 0.3921918570995331,
     "v1_v": 0.6331663727760315,
     "v1_direction_bin": 2,
-    "center_shift_uv_from_v1": 0.015569420468887027
+    "center_shift_uv_from_v1": 0.015569420468887027,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.046952034036318424,
+    "near_grid_boundary": false
   },
   {
     "index": 180,
@@ -8323,7 +9403,13 @@
     "v1_u": 0.602348804473877,
     "v1_v": 0.6415948271751404,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.019422765509691155
+    "center_shift_uv_from_v1": 0.019422765509691155,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.044120798508326176,
+    "near_grid_boundary": false
   },
   {
     "index": 181,
@@ -8369,7 +9455,13 @@
     "v1_u": 0.5866391062736511,
     "v1_v": 0.6941942572593689,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.016552660598254956
+    "center_shift_uv_from_v1": 0.016552660598254956,
+    "grid_cell_number": 8,
+    "grid_cell_label": "前中",
+    "grid_row_number": 3,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.012456004818280575,
+    "near_grid_boundary": true
   },
   {
     "index": 182,
@@ -8415,7 +9507,13 @@
     "v1_u": 0.6042674779891968,
     "v1_v": 0.48405057191848755,
     "v1_direction_bin": 4,
-    "center_shift_uv_from_v1": 0.0030746567746026384
+    "center_shift_uv_from_v1": 0.0030746567746026384,
+    "grid_cell_number": 5,
+    "grid_cell_label": "中中",
+    "grid_row_number": 2,
+    "grid_col_number": 2,
+    "distance_to_grid_line_uv": 0.059409062067667606,
+    "near_grid_boundary": false
   },
   {
     "index": 183,
@@ -8461,6 +9559,12 @@
     "v1_u": 0.8219729065895081,
     "v1_v": 0.7354347705841064,
     "v1_direction_bin": 3,
-    "center_shift_uv_from_v1": 0.009602127162468815
+    "center_shift_uv_from_v1": 0.009602127162468815,
+    "grid_cell_number": 9,
+    "grid_cell_label": "前右",
+    "grid_row_number": 3,
+    "grid_col_number": 3,
+    "distance_to_grid_line_uv": 0.06295587619145715,
+    "near_grid_boundary": false
   }
 ]
